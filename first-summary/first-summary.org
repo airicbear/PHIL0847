@@ -1,0 +1,114 @@
+#+TITLE: Summary of Nehamas' /Plato and Mass the Mass Media/
+#+AUTHOR: Eric Nguyen
+#+OPTIONS: num:nil toc:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage[doublespacing]{setspace}
+#+LATEX_HEADER: \frenchspacing
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+EXCLUDE_TAGS: noexport
+#+EXPORT_FILE_NAME: FirstSummary_NguyenEric
+
+This article argues that Plato's criticisms of poetry in Book X of the /Republic/ act as social and historical gestures which are actually relevant to many contemporary debates, challenging the popular belief that Plato's Book X was merely a cause of interpretative difficulties and philosophical embarrassments (p. 214).
+In particular, the article associates Plato's criticisms of poetry with the contemporary criticisms of television.
+There are five sections in the article: (1) dismissing the interpretative difficulties of Book X, (2) comparing Plato's criticisms of poetry with contemporary criticisms of television, (3) explaining the context of poetry as popular entertainment in Plato's perspective, (4) the distinction between popular and the fine arts, and (5) a framework for the aesthetic criticism of television.
+
+In the first section, Nehamas intends to clear up any difficulties regarding the interpretation of Book X.
+The first difficulty is that Book X appears to come back to a topic already discussed in Books II and III, but this is not true.
+Book X is exclusively on the topic of poetry whereas the earlier books are about the role of poetry in education of young Guardians (the Guardians are a class of rulers and soldiers in society).
+The second difficulty is the apparent contradiction between Book III and Book X where Book III encourages young Guardians to imitate good people yet Book X starts off stating that all imitative poetry has already been been excluded from the city.
+Nehamas makes the argument that "Plato forbids not imitation, which he considers essential to education, but imitativeness, the desire and ability to imitative anything independently of its moral quality and without the proper attitude of praise or blame toward it... he does not refer to all imitation but only... to poetry which involves and encourages imitativeness" (p. 215) thus the difficulty is settled.
+The third difficulty is that Plato's criticisms of poetry pertain solely to ethics, suggesting that Plato does not perceive value in art by any other measures such as aesthetics.
+The misinterpretation that Plato criticizes the arts comes from his analogies between painting and poetry however, Plato's criticisms are actually not associated with the arts at all (explained in Section 3).
+Then the fourth difficulty would be understanding what makes imitative poetry so dangerous in Plato's perspective.
+The fundamental objection Plato makes against poetry is that it is "a medium inherently suited to the representation, or imitation, of vulgar subjects and shameful behavior" (p. 216).
+He argues that despite this, people will indulge in and admire poetry to satisfy the appetitive part of their souls and as a result they will condition themselves to take pleasure in shameful behavior.
+Hence poetry makes it more likely for people to carry themselves in shameful manners and participate in shameful activities (p. 217).
+From this, Plato deduces that poetry harms the soul and thus poses a threat to the city.
+The fifth and final difficulty is then: why does Plato assume that our reactions to poetry translate to our actions in life?
+It is noted that children should be prohibited from exposure to the indecent images portrayed by poetry as a measure to prevent them from imitating wrong behavior and from developing shameful habits.
+Plato argues that this same reasoning can be applied to adults as well, "Plato's view is that the pleasure we feel at the representation of an expression of sorrow in poetry is pleasure at that expression itself, and for that reason likely to dispose us to enjoy such behavior in life... for Plato representation is transparent. It derives all its relevant features... solely from the object it represents" (p. 219).
+In short, Plato argues that the product of imitation and object are practically identical, thus the last difficulty is disposed.
+
+In the second section, Nehamas explains how Plato's criticisms in Book X are still relevant today, particularly using television as the primary example.
+Essentially, he enumerates contemporary criticisms of television and shows that each one aligns accordingly with Plato's criticisms of poetry.
+The criticisms he quotes are as follows: (1) that television in general is mostly vulgar and violent, (2) that television simply presents an imitation of reality, and (3) that television is targeted at a wide audience and produced to gratify one's emotions.
+Indeed, each of these criticisms, he argues, are identical to those views that Plato held in Book X.
+As such, Nehamas suggests that then, most of us should consider ourselves Platonists and "must therefore reexamine both our grounds for disapproving of Plato's attack on poetry and our reasons for disapproving of television" (p. 222).
+However, one may also consider the aesthetic criticism of television---these concerns are addressed in the fifth section.
+
+In the third section, Nehamas explains that Plato's criticism of poetry is not of poetry as a fine art as the term suggests today, but rather as popular entertainment akin to that of modern television.
+In Plato's time, poetry referred to theatrical performances that attracted large audiences representative of general population of the city, including a great number of foreigners.
+These audiences, to Plato's contempt, were quite disorderly and very noisy and would often interfere with the play by harassing actors they did not like.
+Despite the general agreement that art tends to hint at its artificial nature, these hints tend to go unnoticed in popular entertainment.
+In general, popular entertainment is perceived both in theory and in practice, to be inherently realistic.
+Nehamas explains, "To be inherently realistic is to seem to represent reality without artifice, without mediation and convention," (p. 223) yet he then claims that all representation requires mediation and convention.
+So, in the case of popular entertainment, the mediation and convention are not attributed to the representation itself, but instead attributed to the represented subject-matter.
+Then popular media portrays a distorted reality as Nehamas suggests, "Attributed to subject-matter, mediation and convention appear, almost by necessity, as distortions" (p. 224).
+The enjoyment of this distorted reality is the essence behind Plato's criticisms against poetry.
+
+In the fourth section, Nehamas explains the distinction between the popular arts and the fine arts.
+One distinction is that popular art often incorporates parts of reality within it, as opposed to the fine arts where the fine arts are fine precisely because of "the distance they have managed, over time, to insert between representation and reality" (pp. 226-227).
+But there is one form of fine art which Arthur Danto calls "disturbational art" which intends to cause disturbance by narrowing that distance between reality and representation.
+Disturbational art aims to introduce reality back into fine art where reality is the so-called "magic" that was purified when it became art.
+However, Nehamas argues that once art becomes fine art it permanently remains as fine art.
+Instead, of disturbational art, Nehamas suggests that the line between fine art and popular art is particularly blurred by television---"literally an art which has not yet become art—and which truly disturbs its audience" (p. 227).
+While the so-called "magic" from television might not be respectable as much as poetry, Nehamas argues that it is "structurally identical to the magic Plato saw and denounced in Greek poetry, which also, of course, was not art" (p. 227).
+Indeed, the same arguments made by Plato against poetry are repeated by those who criticize television today.
+
+In the fifth and final section, Nehamas considers the aesthetic criticisms of television.
+The fact is television has a vast selection of genres---some genres may pertain to the arts, some may not at all.
+However one aspect is true across nearly all broadcast television: routine.
+Whatever genre might be chosen in broadcast television, it will almost always be serial---that is, it will likely involve a series of episodes which are released routinely.
+Each successive episode, for the most part, carries a sense of sameness of the previous episode in terms of the collective representations portrayed in the show.
+Broadcast television then requires the viewer to arrange themselves according to its schedule and as such, it depicts and imposes routine upon us.
+It also implies that, for the critic to assess a broadcast's aesthetic value, they should assess it not by a single episode, but by the entire sequence of episodes (p. 229).
+But even the critic is prone to the trap of routinization which would presumably undermine their efforts to criticize.
+Despite this, there is no rule that routine cannot have aesthetic value, just as how there is no rule that vulgar depictions (as shown in television) cannot be magnificent works of art (p. 230).
+
+* Assignment :noexport:
+
+The second short writing assignment is a detailed summary of a secondary source pertaining to Plato's criticism of the initiative arts.
+The paper you are to read and summarize is "Plato and the Mass Media" by Alexander Nehamas (available on Canvas).
+
+Your summary should follow a close reading of the text and explain the main points of argumentation.
+The summary is not evaluative--that is, you are not assessing the quality of the paper or opining about the parts you liked or disliked.
+Simply put, you are asked to explain the main points of the paper /in your own words/.
+Imagine that you are paraphrasing the text to someone who is not familiar with the content of our course (e.g., a university friend who is not in our course).
+To do this exceptionally, you must include direct textual evidence--that is, quote the paper and provide citations.
+This is not, however, an invitation to quote large portions of the text with minimal paraphrase.
+The purpose of the assignment is myriad: to prove you have read and understood an academic source; to think critically about the content of the source and its relevance to the material we have covered thus far; to hone your research skills.
+
+* The Details :noexport:
+
+- Consider beginning with an introductory paragraph that summarizes the paper in a few lines.
+
+- In the remainder, summarize the content, including argumentative structure, of the paper.
+
+- When reading along, consider the following questions: What is the point of the article?
+  What are the main arguments in support of this point?
+  What are the topics covered?
+
+- For this paper, consider that philosophy articles tend to follow this format:
+
+  + Common ground: The author locates a topic, an audience, and a sphere of agreement pertaining to this topic
+
+  + Destabilization: The author identifies a problem (e.g., we all agree about X, but here's something weird...)
+
+  + Thesis: The author offers a solution to this problem
+
+  + Cost/benefit: The author articulates why the thesis matters and what the advantages/disadvantages of this view are
+
+- Your summary should be no more than 4 double spaced pages with standard formatting (e.g., Times New Roman or similar font in 12 pt., one-inch margins, etc.).
+
+- Your summary should include in-text parenthetical citations whenever you quote or closely paraphrase the text.
+  Since you are beginning with a citation to the source, page numbers will suffice.
+
+- See Canvas for examples of the assignment.
+
+- Make sure your file uploads properly once it has been submitted.
+
+- /A note on extensions and late submissions/:
+  Assignments submitted after the deadline should be submitted to Canvas.
+  The penalty for late submissions will be a third of a letter grade per day, including weekends.
+  Late assignments are not accepted a week after the deadline.
+  Extensions are readily available, though they will not be granted within 48 hours of the deadline.

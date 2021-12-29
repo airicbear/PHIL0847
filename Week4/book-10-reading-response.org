@@ -1,0 +1,422 @@
+#+TITLE: Reading Response: Plato's Republic
+#+AUTHOR: Eric Nguyen
+#+OPTIONS: toc:nil num:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+EXCLUDE_TAGS: noexport
+#+EXPORT_FILE_NAME: Book10ReadingResponse_NguyenEric
+
+Plato defines an imitator as "one whose product is three removed from the natural one" (p. 300) and such a product would be considered an imitation.
+To clarify, there are three sorts of any given product: the one created by god, the one created by the craftsman, and the one created by the painter.
+The product created by the painter is merely an imitation of that product of the craftsman, and the product created by the craftsman is work derived from the truth (given by the natural product of god).
+Hence, the painter is three removed from the truth, and in general, imitation is "far removed from the truth" (p. 301).
+
+Plato primarily uses painters and poets as examples when referring to imitators.
+The following quote precisely guides us to reason about why such artists are, in fact, imitators:
+#+begin_quote
+For example, the painter, we say, can paint us a cobbler, a carpenter, or any other craftsman, even though he knows nothing about these crafts.
+All the same, if he is a good painter, by painting a carpenter and displaying him at a distance, he might deceive children and foolish adults into thinking it truly is a carpenter.
+
+--- Plato (p. 301)
+#+end_quote
+Indeed, the painter in this example simply creates an imitation, without having any knowledge of the truth; hence is an imitator.
+
+Imitation isn't necessarily a bad thing, however.
+While imitation does remove us from truth, from reason, and from law, it does grant personal satisfaction and enjoyment of the natural appetites.
+Apparently, the human being has two forces influencing his decision making: that is the force of reason, and the force of imitation.
+In other words, the human state of mind is in constant conflict between these two states.
+For example, a grieving man who loses a loved one might reason that they should not grieve as it is not how a true man should act, however because they have a natural appetite to grieve they proceed to do so without regard to their reasoning, to fulfill their natural appetite and consequently gain pleasure from doing so (pp. 310--311).
+In general, imitation is able to satisfy the appetites, where reason may hold us back from doing so.
+Despite this, Plato argues that truth is the best element in the soul and that the element that opposes the truth, that is the element tied with imitation, the appetite, is the inferior element within us (p. 307).
+
+* Assignment :noexport:
+
+Below are some points of discussion for this week's reading (Book 10 of Plato's Republic, pages 297-311).
+Aim for approximately 400 words.
+Given this word limit, I don't expect you to cover each point; indeed, I slightly prefer for you to craft thorough responses to a few things rather than give shallow answers to everything.
+
+Please support your points with textual evidence (e.g., give quotes and page numbers corresponding to the page text not the PDF file).
+
+*Responses are due by Wednesday, September 29 by the beginning of class.*
+
+** Points
+
+1. What, according to Plato, is imitation?
+   Which arts imitate?
+   Is imitation good or bad?
+   Why?
+
+2. Which is better, in Plato's view: painting or craftsmanship?
+   Why?
+
+3. In the case of the bed, who are the three people involved?
+   What does each do?
+   According to Plato, which one is the best and which the worst?
+   Why?
+
+4. Homer, the purported author of the Iliad and the Odyssey, is revered by the Greeks, but Plato argues that Homer has no knowledge of his subject.
+   What is the significance of this claim, and how does Plato justify it?
+
+5. Which part of the soul/mind, according to Plato, conspires with imitative art?
+   Why is it important for Plato's argument that imitative art aim at this part and its faculties?
+   (Think of the evaluative words Plato uses to describe it.)
+
+6. How does Plato's discussion of grief fit into the discussion of imitative art?
+   Which sort of person does poetry imitate and why?
+
+* Dialogue :noexport:
+
+SOCRATES: You know that there are many other things about our city that make me think we were entirely right in founding it as we did, but I am particularly thinking of poetry when I say that.
+
+GLAUCON: What about it?
+
+SOCRATES: Our refusal to admit any of it that is imitative.
+Indeed, the need not to admit it seems even more evident, in my view, now that we have distinguished the elements in the soul from one another.
+
+GLAUCON: How do you mean?
+
+SOCRATES: Between ourselves---for /you/ won't denounce me to the tragic poets or any of the other imitative ones---I think all such poetry is likely to corrupt the mind of those of its hearers who do not have the knowledge of what it is really like as a drug to counteract it.
+
+GLAUCON: What do you have in mind in saying that?
+
+SOCRATES: I will have to tell you, even though a sort of reverential love I have had for Homer since childhood makes me hesitate to speak.
+You see, he seems to have been the first teacher and leader of all these fine tragedians.
+All the same, a man should not be honored more than the truth.
+So, as I say, I will have to tell you.
+
+GLAUCON: Of course.
+
+SOCRATES: Listen, then---or rather, answer my questions.
+
+GLAUCON: Ask away.
+
+SOCRATES: Could you tell me what imitation in general is?
+You see, I do not entirely understand what it is supposed to be.
+
+GLAUCON: So it is likely that /I/ will?
+
+SOCRATES: There would be nothing strange in that, since there are many things the shortsighted see before the sharp-eyed!
+
+GLAUCON: That's right.
+But with you present, I could not possibly be very eager to speak out even if there were something I saw.
+So, you will have to do the looking yourself.
+
+SOCRATES: Do you want us to begin our investigation with the following point, then, in accordance with our usual procedure?
+I mean, as you know, we usually posit some one particular form in connection with each set of many things to which we apply the same name.
+Or don't you understand?
+
+GLAUCON: I do.
+
+SOCRATES: Then in the present case, too, let's take any set of many things you like.
+For example, there are, if you like, many couches and tables.
+
+GLAUCON: Of course.
+
+SOCRATES: But the forms connected to these manufactured items are surely just two, one of a couch and one of a table.
+
+GLAUCON: Yes.
+
+SOCRATES: Don't we usually say, too, that the craftsman who makes each manufactured item looks toward the form when he makes the couches or tables we use, and similarly with other things?
+For surely no craftsman makes the form itself---
+
+GLAUCON: How could he?
+
+SOCRATES: Well, now, see what you would call /this/ craftsman?
+
+GLAUCON: Which?
+
+SOCRATES: The one who makes everything each individual handicraftsman makes.
+
+GLAUCON: That's an amazingly clever man you are talking about!
+
+SOCRATES: Wait a minute and you will have even more reason to say that!
+You see, this same handicraftsman is able to make not only every manufactured item, but he also makes all the plants that grow from the earth, and produces all the animals, including himself; and in addition, he produces earth and sky and gods and everything in the sky, and everything in Hades beneath the earth.
+
+GLAUCON: You are talking about a wholly amazing sophist!
+
+SOCRATES: You do not believe me?
+Tell me, do you think such a craftsman is completely impossible?
+Or do you think there is a way in which a maker of all these things could exist, and a way in which he could not?
+Don't you see there is a certain way in which even you yourself could make all of them?
+
+GLAUCON: What way is that?
+
+SOCRATES: It is not difficult.
+On the contrary, it is a sort of craftsmanship that is widely available and quick---and quickest of all, I suppose, if you are willing to take a mirror and turn it around in all directions.
+That way you will quickly make the sun and the things in the sky; you will quickly make the earth, yourself and the other animals, manufactured items, plants, and everything else that was mentioned just now.
+
+GLAUCON: Yes, their appearances, but certainly not the things themselves as they truly are.
+
+SOCRATES: Right!
+You attack the argument at just the right place.
+For I think the painter is also one of these craftsmen, isn't he?
+
+GLAUCON: Of course.
+
+SOCRATES: But you will say, I think, that he does not make the things he makes as they truly are---even though there is a certain way in which the painter also makes a couch.
+Isn't that right?
+
+GLAUCON: Yes, he also makes the appearance of one.
+
+SOCRATES: What about the couch-maker?
+Didn't you just say that he does not make the form---which we say is what a couch is---but only a particular couch?
+
+GLAUCON: Yes, I did say that.
+
+SOCRATES: Now, if he does not make what it is, he is not making what is, but something that is like what is, but is not.
+So, if someone were to say that the product of a couch-maker or any other handicraftsman completely is, he probably would not be speaking the truth?
+
+GLAUCON: That, at any rate, is what those who occupy themselves with such arguments would think.
+
+SOCRATES: So we should not be surprised if it also turns out to be somewhat dim in comparison to the truth.
+
+GLAUCON: No, we should not.
+
+SOCRATES: Would you like us, then, to use these same examples to search for that imitator of ours and what he really is?
+
+GLAUCON: I would, if you would.
+
+SOCRATES: Well, then, we have these three sorts of couches.
+One, that is in nature, which I think we would say a god makes.
+Or is it someone else?
+
+GLAUCON: No one, I suppose.
+
+SOCRATES: One the carpenter makes.
+
+GLAUCON: Yes.
+
+SOCRATES: And the one the painter makes.
+Isn't that so?
+
+GLAUCON: It is.
+
+SOCRATES: So painter, carpenter, and god---these three oversee three kinds of couches?
+
+GLAUCON: Yes, three.
+
+SOCRATES: Now, the god, either because he did not want to, or because it was somehow necessary for him not to make more than one that is in its nature a couch, made only the one that is what a couch itself is.
+Two or more of these have not been naturally developed by the god and never will be naturally developed.
+
+GLAUCON: Why is that?
+
+SOCRATES: Because, if he were to make only two, one would again come to light whose form they in turn would both possess, and /it/ would be what a couch itself is, not the two.
+
+GLAUCON: That's right.
+
+SOCRATES: The god knew this, I suppose, and wishing to be the real make of the real couch and not just some particular maker of some particular couch, naturally developed the one that is in its nature unique.
+
+GLAUCON: Probably so.
+
+SOCRATES: Would you like us to call him its natural maker, then, or something like that?
+
+GLAUCON: It would be right to do so, at any rate, since it is by nature that he has made it and all the others.
+
+SOCRATES: What about the carpenter?
+Shouldn't we call him the craftsman who makes a couch?
+
+GLAUCON: Yes.
+
+SOCRATES: And should we call a painter, too, a craftsman and maker of such a thing?
+
+GLAUCON: Certainly not.
+
+SOCRATES: In that case, what is it you say he is, of a couch?
+
+GLAUCON: In my view, the most reasonable thing to call him is this: he is an imitator of what the others are craftsmen of.
+
+SOCRATES: All right.
+So the one whose product is three removed from the natural one, you call an imitator?
+
+GLAUCON: Certainly.
+
+SOCRATES: So the tragedian too, if indeed he is an imitator, will be someone who is by his nature third from king and truth, and so will all the other imitators.
+
+GLAUCON: It looks that way.
+
+SOCRATES: We are agreed about the imitator, then.
+Now tell me this about the painter: in each case, do you think it is what each thing itself is in its nature that he is trying to imitate, or the products of the craftsmen?
+
+GLAUCON: Those of the craftsmen.
+
+SOCRATES: As they are, or as they appear to be?
+You still have to make that distinction.
+
+GLAUCON: How do you mean?
+
+SOCRATES: This: if you look at a couch from the side or the front or from anywhere else, does it differ in any way from itself?
+Or, while not differing at all, does it appear different?
+And similarly with the others?
+
+GLAUCON: The latter.
+It appears different, but is not different at all.
+
+SOCRATES: Then consider this very point: at what does painting aim in each case?
+To imitate what is as it is?
+Or what appears as it appears?
+Is it an imitation of an illusion, or of truth?
+
+GLAUCON: Of an illusion.
+
+SOCRATES: So, imitation is surely far removed from the truth.
+And the reason that it produces everything, it seems, is that it grasps only a small part of each thing---and that is an illusion.
+For example, the painter, we say, can paint us a cobbler, a carpenter, or any other craftsman, even though he knows nothing about these crafts.
+All the same, if he is a good painter, by painting a carpenter and displaying him at a distance, he might deceive children and foolish adults into thinking it truly is a carpenter.
+
+GLAUCON: Of course.
+
+SOCRATES: In fact, my friend, I imagine that what we must bear in mind in all these cases is this: when someone tells us he has met a human being who knows every craft as well as everything else anyone knows, and that there is nothing of which he does not have a more exact knowledge than anyone else, we should assume we are talking to a naïve fellow.
+He has been deceived, it seems, by an encounter with some sort of sorcerer or imitator, whom he therefore considers to be all-wise.
+But that is because of his own inability to distinguish between knowledge, lack of knowledge, and imitation.
+
+GLAUCON: That's absolutely true.
+
+SOCRATES: Well, then, we must next consider tragedy and its leader, Homer, since we hear from some that these men know every craft, everything relevant to human virtue and vice, and even all about divine matters.
+They claim, you see, that if a good poet is to write beautiful poetry about the things he writes about, he must have knowledge of them when he writes, or else he would be unable to.
+We should consider, then, whether those who tell us this have been deceived by their encounters with these imitators and do not realize, when they see their works, that they are three removes from what is, and are easy to produce without knowledge of the truth.
+For they produce illusions, not things that are.
+Or whether there is something in what they say, and good poets really do have knowledge of the things about which the masses think they speak so well.
+
+GLAUCON: We certainly must consider that.
+
+SOCRATES: Do you think, then, that if someone could make both what is imitated and its image, he would allow himself to take making images seriously, and put it at the forefront of his life as the best ability he had?
+
+GLAUCON: No, I do not.
+
+SOCRATES: But if he truly had knowledge of what he imitates, I suppose he would take deeds much more seriously than their imitations, would try to leave behind many beautiful deeds as his own memorials, and would be much more eager to be the subject of a eulogy than the author of one.
+
+GLAUCON: I suppose so.
+I mean, these things certainly are not equal either in honor or in benefit.
+
+SOCRATES: Let's not demand an account, then, of the other things from Homer or any other poet.
+Let's not ask if any of them is a doctor or only an imitator of what doctors say; or which people any of the poets, old or new, has reportedly made healthy, as Asclepius did; or which students of medicine he left behind, as Asclepius did his sons.
+And let's not ask them about the other crafts either, but leave them aside.
+When it comes, however, to the most important and most beautiful things of which Homer undertakes to speak---warfare, generalship, city government, and person's education---surely, it /is/ fair to question him as follows:
+"My dear Homer, if you are not third removed from the truth about virtue, and are not the sort of craftsman of an image, which is what we defined an imitator to be, but if you are even in second place and capable of knowing what practices make people better or worse in private or public life, tell us which cities are better governed because of you, as the Lacedaemonians are because of Lycurgus, and as many others---big and small---are because of many other men.
+What city gives you credit for having proved to be a good lawgiver who benefited it?
+Italy and Sicily give it to Charondas, and we give it to Solon.
+Who gives it to you?"
+Will he be able to name one?
+
+GLAUCON: I suppose not.
+At any rate, none is mentioned even by the Homeridae themselves.
+
+SOCRATES: Then is any war in Homer's time remembered that was well fought because of his leadership or advice?
+
+GLAUCON: None at all.
+
+SOCRATES: Then as you would expect in the case of a man wise in deeds, are we told of his many ingenious inventions in the crafts or other activities, as we are about Thales of Miletus and Anacharsis the Scythian?
+
+GLAUCON: There's nothing of that sort.
+
+SOCRATES: Then if there is nothing of a public nature, is Homer said to have been a leader, during his own lifetime, in the education of people who loved associating with him and passed on a Homeric way of life to those came later?
+Is he like Pythagoras, who was himself particularly loved for this reason, and whose followers even today still seem to be conspicuous for a way of life they call Pythagorean?
+
+GLAUCON: Again, we are told nothing of this kind.
+Indeed, Socrates, Creophylus, the companion of Homer, would presumably seem even more ridiculous than his name suggests as an example of such education, if the story told about Homer is true.
+You see, we are told that while he was alive, Creophylus completely neglected him.
+
+SOCRATES: Yes, we are told that.
+But, Glaucon, if Homer had really been able to educate people and make them better, if he had been able, not to imitate such matters but to know about them, wouldn't he have had many companions who honored and loved him?
+Protagoras of Abdera, Prodicus of Ceos, and a great many others are able to convince anyone who associates with them in private that he wouldn't be able to manage his household or city unless they themselves supervised his education, and they are so intensely loved because of this wisdom of theirs that their disciples do everything except carry them around on their shoulders.
+Are we to believe, then that if Homer had been able to help people become virtuous, his companions would have allowed either him or Hesiod to wander around as rhapsodes, and wouldn't have clung far tighter to them than to gold and compelled them to come home and live with them?
+And if persuasion failed, wouldn't they have followed them wherever they went until they had received sufficient education?
+
+GLAUCON: I think what you say is entirely true, Socrates.
+
+SOCRATES: Are we to conclude, then, that all poets, beginning with Homer, imitate images of virtue and of all the other things they write about, and have no grasp of the truth?
+Although, as we were saying just now, a painter will make what seems to be a shoemaker to those who know as little about shoemaking as he does himself, but who look at things in terms of their colors and shapes.
+
+GLAUCON: That's right.
+
+SOCRATES: Similarly, I suppose, we will say that the poet uses words and phrases to paint colored pictures of each of the crafts, even though he knows only how to imitate them; so that others like himself, who look at things in terms of words, will think he extremely well about shoemaking or generalship or anything else, provided he speaks with meter, rhythm, and harmony.
+That is how great a natural spell these things cast.
+For if a poet's works are stripped of their musical colorings and spoken just by themselves, I think you know what they look like.
+You have surely seen them.
+
+GLAUCON: I certainly have.
+
+SOCRATES: Don't they resemble the faces of those who are young but not really beautiful, after the bloom of youth has left them?
+
+GLAUCON: Absolutely.
+
+SOCRATES: Come on, then, consider this: the maker of an image---the imitator---knows nothing, we say, about what is, but only about what appears.
+Isn't that so?
+
+GLAUCON: Yes.
+
+SOCRATES: Then let's not leave the story half-told.
+Let's look at the whole thing.
+
+GLAUCON: Go on.
+
+SOCRATES: A painter, we say, will paint reins and a bit?
+
+GLAUCON: Of course.
+
+SOCRATES: Does the painter know what the reins and a bit should be like, then?
+Or do not even their makers---the saddler and the blacksmith---know this, but only the one who knows how to use them, the horseman?
+
+GLAUCON: That's absolutely true.
+
+SOCRATES: So, won't we say that the same holds for everything?
+
+GLAUCON: What?
+
+SOCRATES: That for each thing there are these three crafts: one that will use, one that will make, one that will imitate?
+
+GLAUCON: Yes.
+
+SOCRATES: Then aren't the virtue, goodness, and correctness of manufactured item, living creature, and activity related to nothing but the use for which each is made or naturally developed?
+
+GLAUCON: They are.
+
+SOCRATES: So it is entirely necessary, then, that the user of each thing has the most experience of it, and that he inform the maker about whaht the good and bad points are in the actual use of the thing he uses.
+For example, it is the flute player, I take it, who informs the flute-maker about which flutes respond well in actual playing, and prescribes how they should be made, while the maker obeys them.
+
+GLAUCON: Of course.
+
+SOCRATES: Doesn't the one who knows gives information, then, about good and bad flutes, whereas the other, by relying on him, makes them?
+
+SOCRATES: So, as regards the same manufactured item, its maker---through associating with the one who knows and having to listen to the one who knows---has correct belief about its good and bad qualities, while its user has knowledge.
+
+GLAUCON: Exactly.
+
+SOCRATES: What about the imitator?
+Will he, on the basis of using the things he paints, have knowledge of whether they are good and correct or not?
+Or will he have correct belief through having to associate with the one who knows and being told how he should paint them?
+
+GLAUCON: Neither.
+
+SOCRATES: So an imitator has neither knowledge nor correct belief about whether the things he makes are good or bad.
+
+GLAUCON: Apparently not.
+
+SOCRATES: How well situated the poetic imitator is, then, in relation to wisdom about the subjects of his poems!
+
+GLAUCON: He isn't really.
+
+SOCRATES: And yet he will go on imitating all the same, even though he does not know in what way each thing is good or bad.
+On the contrary, whatever appears good to the masses who know nothing---that, it seems, is what he will imitate.
+
+GLAUCON: What else?
+
+SOCRATES: Apparently, then, we are fairly well agreed on the following: that the imitator knows nothing worth mentioning about the things he imitates, but that imitation is a kind of game, not something to be taken seriously; and that tragic poets, whether in iambic or epic verse, are as imitative as they could possibly be.
+
+GLAUCON: Absolutely.
+
+SOCRATES: In the name of Zeus, then, this business of imitation is concerned with what is third removed from the truth..
+Isn't that right?
+
+GLAUCON: Yes.
+
+SOCRATES: Now, then, on which of the elements in a human being does it have its effect?
+
+GLAUCON: What sort of element do you mean?
+
+SOCRATES: This sort: the same object, viewed from nearby, does not appear the same size, I presume, as when viewed from a distance.
+
+GLAUCON: No, it does not.
+
+SOCRATES: And the same things appear bent and straight when seen in water or out of it, or concave and convex because sight is misled by colors; and every other similar sort of confusion is clearly present in our soul.
+It is because it exploits this weakness in our nature that illusionist painting is nothing short of sorcery, and neither are jugglerly or many other similar sorts of trickery.

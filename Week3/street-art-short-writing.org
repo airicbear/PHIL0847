@@ -1,0 +1,93 @@
+#+TITLE: Street Art Short Writing
+#+AUTHOR: Eric Nguyen
+#+OPTIONS: toc:nil num:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage[doublespacing]{setspace}
+#+LATEX_HEADER: \frenchspacing
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+EXCLUDE_TAGS: noexport
+#+EXPORT_FILE_NAME: StreetArtShortWriting_NguyenEric
+
+In 1991, forty-one children from adjacent neighborhoods participated in the creation of mural located at the entrance of Temple University's elevated SEPTA regional rail train station.
+The artwork is a large 13 by 60 foot mural, split on the corner of a wall, subdivided into 41 squares containing each drawing from the respective child artist, with one square reserved for accreditation for each person involved in its creation and a description of the mural,
+#+begin_quote
+This mural is a reflection of the children who in 1991 lived in the neighborhoods adjacent to this Station: their thoughts, their dreams, themselves.
+#+end_quote
+The white, square subdivisions of the mural make it appear to almost look like there are large glass windows installed into the gray concrete walls of the train station looking out, towards the dreams of each of those children.
+Indeed, it is apparent that the street is internal to the meaning of this artwork, both in the geographical sense as well as the illusory sense, which may lead one to consider this mural "street art".
+To elaborate, the meaning of the artwork is to show passersby and train commuters the dreams and aspirations of the children living in /local/, adjacent neighborhoods, and the window illusion is effective /because/ the mural is installed on the streets.
+Hence the street is internal to the meaning to the artwork.
+
+#+CAPTION: Temple train station children's mural
+[[./mural.jpg]]
+
+However, Riggle's definition of street art is a bit more intricate.
+While his definition of street art in general, is that the street is internal to the meaning of the artwork, he also emphasizes the conditions of the street, that is, illegality, anonimity, ephemerality, creativity, and attractiveness (p. 246) as well as the differentiation between street art and public art (p. 255).
+In this case, the mural is neither illegal, anonymous, ephemeral, nor necessarily even attractive (considering its drawn by children), however it is not necessarily public art either in the sense that it is not intrusive to the public space, but is disconnected from the artworld (because the artists are local children who presumably have no involvement with the artworld) and integrated with the public space.
+Since the conditions of street only make certain properties more likely (i.e., illegality, anonimity, ephemerality, creativity, and attractiveness), under Riggle's definition of street art, they are not actually necessary, but only are likely properties of street art.
+So, if we omit these considerations in identifying this artwork as street art, knowing that this is certainly not public art, then it must be street art.
+
+In further support of this argument, we can note several propositions that Riggle mentions regarding street art and see that the children's mural agrees with each proposition.
+Riggle asserts that street art "invariably feels dead and inauthentic" (p. 246) when placed outside of the street.
+Riggle asserts that street art cannot be criticised using formalist principles, but instead to understand street art, "the critic is forced to discuss the significance of a work's use of these inflected spaces" (p. 249) where the inflected spaces are public spaces such as "shared spaces, ignored spaces, conflicted spaces, political spaces" (p. 249).
+Riggle asserts that street art "often enters one's stream of consciousness" (p. 249), i.e., as one is walking down the street, whether it is on their way to work, to their friend's house, to a local restaurant, or to a class lecture, if they were to glance in some specific direction they would experience an "unsolicited aesthetic injection" (p. 249) and be forced to rethink their their otherwise "purely practical and indifferent relationship to the street" (p. 249).
+Each assertion holds true for the children's mural further reinforcing the fact that the children's mural is indeed street art, precisely matching Riggle's definition of street art.
+
+It might be useful to take a look at each of these assertions in closer detail to fully understand why the children's mural satisfies each one.
+
+First of all, if you were to take the children's mural off the street, and say, for example, install it in a local museum, would it retain it's significance?
+Because the meaning of the artwork is directly and explicitly from it being installed at the specific train station, that is to represent the dreams of the  children in the neighborhoods adjacent to the train station, it most certainly would lose its meaning if it were to be placed elsewhere, even if the museum was local.
+Additionally, because of the window illusion aspect of the artwork, while it may still retain its effect if it were installed indoors, arguably makes more sense being installed outdoors on the street where it mimics the exterior of a building where the observer looks inwards, towards the train station (the point of interest that the children share in common) as opposed to outwards, away from the train station.
+
+Secondly, the children's mural cannot be critiqued by formalist principles, but "requires attending to a nonaesthetic feature of the work, namely, its material use of the street" (p. 249).
+The first part of this proposition intuitively holds true due to the artists being children as opposed to seasoned, professional artists who likely have no understanding of formalist principles in art.
+The drawings created by the children are clearly inconsistent, chaotic, and informal in nature, presumably drawn without much regard to the aesthetic features.
+Thus, since the artwork is not to be critiqued by its aesthetic features it follows that it should be critiqued by its nonaesthetic features, indeed in this case arguably the most prominent of such nonaesthetic features being the material use of the street and particularly its specific geographic location.
+
+Finally, one of the aspects of street art is that it spontaneously transforms one's relationship with the street from a practical, indifferent one to a curious, exploratory relationship with the street and indeed the children's mural does this to the passerby.
+The mural, while large and easily seen, is particularly unobtrusive and does not bring much attention to it as it blends in with the street, disguised as windows from up high, looking onto the street.
+The average passerby may see the mural but not think much of it, less so consider it an artwork.
+However, upon closer inspection it appears to the passerby that there are not merely windows on the wall, but instead, to their surprise, there are children's drawings in each square.
+Suddenly, the passerby realizes that the windows that were there all this time were not actually windows, but instead a collection of art made by children made into a mural.
+The passerby becomes curious about the artwork and as a result becomes more curious about art on the street in general.
+This is precisely the experience that I had myself when I came across this mural.
+
+From clearly satisfying each of these assertions, the children's mural, despite not being anonymous or ephemeral, is very much exemplary of Riggle's definition of street art.
+
+* Assignment :noexport:
+
+Write a 1,000 word exercise in which you identify and appraise an object as street art according to Nick Riggle's account.
+Your writing exercise should concisely explain the view articulated by Riggle in "Street Art" and use that explanation to support your identification and appraisal.
+By "identify," I mean state whether or not the object in question is a work of street art.
+By "appraise," I mean assess the quality of work as a piece of street art.
+Notice that these are separate issues.
+In addressing these issues, it may help to consider the following:
+what is the material of the work?
+how, if at all, does it make use of aspects of the street?
+where is it located?
+if known, who is the artist and what is the title?
+who might be the intended audience?
+what do you take the meaning of the work to be?
+could the work be placed somewhere else and retain the same meaning?
+how, if at all, does the work challenge our conventions (of art? of materials? of space itself?)?
+
+You have a great deal of latitude in choosing your object.
+I strongly prefer, however, that you choose an object that you've experienced in person (if possible, take a photo and include it with your submission).
+The preference is intended to motivate you to explore the city and see things you otherwise might have overlooked.
+
+Some possible locations of interest: The Rail Park, https://www.therailpark.org/ (Links to an external site.) or Percy Street Project http://www.percystreetproject.org/ (Links to an external site.)
+
+See, also, https://streetsdept.com/ (Links to an external site.)
+
+Technical matters:
+
+1. Double spaced, reasonable margins, reasonable point size, reasonable font.
+
+2. Include a word count at the end of your assignment, and cite the text parenthetically by page number.
+
+3. This is not a research paper. You do not need to use any sources other than Riggle's paper.
+
+Assignments are due before class on Monday, Oct. 4.
+Assignments submitted after this due date must be sent to me by email.
+The penalty for late submissions not accompanied by appropriate documentation will be a third of a letter grade per day, including weekends.
+Papers will not be accepted a week after the deadline.

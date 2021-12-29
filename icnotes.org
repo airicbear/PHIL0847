@@ -1,0 +1,1111 @@
+#+TITLE: In-class Notes
+
+* 2021-08-30
+
+** Art
+
+- Object
+
+- Activity
+
+** Judd on art's decline
+
+1. Modernization of society has made people ignorant of art's history. (educational problem)
+
+2. Art has emancipated itself from other cultural institutions. Art is now business.
+
+3. Neoliberal democracy has made its way out of politics and other aspects of society/culture. "Art is intrinsically a matter of quality."
+
+4. Ignorance of history entails an ignorance of understanding that history is past and cannot be accessed immediately.
+   New works that try to look important do so by borrowing historic  forms but are only kitsch.
+
+** Implications of Judd
+
+- Decline in education/historical understanding and commercialization of life seem interdependent.
+
+- The conditions of art making have changed drastically.
+  Artists on the one hand, have freedom to work as they place on what they want.
+  But their practice depends on selling works to a public that is ignorant of what good art is.
+
+- To survive, the artist has to make works that appeal to the public, has to make them important by looking by borrowing past themes/motifs, but (paradoxically), make it look original/innovative/"post-modern"
+
+- Notice that the artist may herself not even know what good art is because she is a product of the society where historical education is not valued.
+
+- In Judd's case, the artist becomes ALIENATED by the conditions of production.
+
+** Interlude
+
+- Assumption: all human societies show evidence of artistic activity
+
+- How do we conceive of the arts society?
+
+  + Important objects, appreciated and preserved and possess monetary value
+
+- How do we conceive of artists today?
+
+  + Dignified, social standing, educated, possessing cultural capital
+
+- Has this always been the case?
+  If not, when did things change and why?
+
+** Kristeller, "The Modern System of the Arts" (1952)
+
+- Fine arts:
+  + Painting
+  + Sculpture
+  + Architecture
+  + Music
+  + Poetry
+
+** Fine Arts?
+
+Why not:
+- Gardening
+- Decorative arts
+- Dance
+- Theatre
+- Opera
+- Novels
+
+** Arts in antiquity
+
+- Greek and Latin terms for art /techne/ and /ars/ mean craft and include all sorts of activities, e.g., husbandry
+
+** Art in the Middle Ages & Renaissance
+
+- Arts belong to the "mechanical" arts akin to armor making.
+
+- Visual artists identify with /disgeno/, form an academy of art from the guilds vs /colorito/
+
+  + disegno: form
+
+  + colorito: content
+
+* 2021-09-01
+
+** Art in the Renaissance and beyond
+
+Renaissance person is concerned with the fine arts
+
+** Art in the early modern period
+
+- Up to this point, art is about skill genius, imitation, and beauty
+
+- In 1750s, a modern conception of beauty that is separated from the classical ideal of beauty = proportion, perfection, goodness, truth, etc
+
+** Clement Greenberg, "Modernist Painting" (1960)
+
+- What is happening with arts?
+  Is there a decay?
+  A loss of skill?
+
+- Greenberg is that history progresses and becomes more MODERN
+
+- Modernism as "use of the characteristic methods of a discipline to criticize the discipline itself - not in order to subvert it, but to entrench it more firmly in its area of competence" (774)
+
+- References to Kant's critical philosophy.
+  Instead of what can we know about the world, what does reason allow us to know about the world?
+  What are its limits?
+
+** Modernist Painting
+
+- So what is absolutely essential to painting?
+
+* 2021-09-08
+
+** Background
+
+- Aesthetics - from the Greek /aisthetikos/, translates to sense perception
+
+- Contemporary use of term denotes: special properties and experiences occasioned by those properties when we perceive objects
+
+  + that's vague: apple: redness, weight, shape, size, etc.
+                  Apple is /beautiful/, /lively/, /dynamic/, /elegant/, /sad/, etc.
+
+- Notice, "apple is 3 feet long" is true irrespective of our experience of it.
+  "Apple is beautiful" seems to depend on perceivers in an important way.
+
+- Beauty is taken to be the primary aesthetic property.
+  Some aesthetic questions: is beauty a property of objects (like weight/shape/etc.) or something we project?
+
+- What is the connection between aesthetic properties and aesthetic experiences?
+  Are some experiences warranted/unwarranted?
+
+- Notice: aesthetic applies to all kinds of objects (not just artworks): your cat, garden, a gesture, glass of wine, etc.
+
+- But do all artworks have to be beautiful?
+
+- Philosophy of art a more recent branch of philosophy: solidified by 1950s/60s when stuff like this is widely accepted as art - replicas of ordinary objects.
+  Beauty is not important here.
+  It cannot answer this question.
+
+** A philosophy of art?
+
+- We've seen that art seems to be a key human activity, found across all cultures at all times...
+
+- To better understand this activity, we need to be clear about the concepts that make it possible.
+
+- Philosophy of art explores (in part) the concepts that make creating and thinking art
+
+** Philosophical principles
+
+- Why care about philosophy?
+
+- Principle of noncontradiction (PNC)
+
+  + reductio ad absurdum
+
+- Principle of sufficient reason (PSR)
+
+  + Problem of circularity (begging the question)
+
+  + Problem of infinite regress
+
+** PNC
+
+- *Principle of noncontradiction* (PNC): "It is impossible that the same thing can at the same time both belong and not belong to the same object and in the same respect, and all other specifications that might be made, let them be added to meet local objects" (Aristotle, /Metaphysics/, 1005b19--23).
+
+- In plain English: two contradictory propositions (P & ~P) cannot both be true simultaneously
+
+  + E.g., "She is alive" and "she is not alive"
+
+    - If we want to be strict, one must be true and one must be false; both cannot be true/false simultaneously.
+      The truth of one proposition implies the falsity of the other.
+
+  + Compare "all giraffes have long necks" and "no giraffes have long necks"
+
+    - Both cannot both be true at once, but both can be false. These are *contraries*.
+
+PNC is standardly held first principle of thinking.
+It's "brute" meaning we can't offer a proof for it, just have to accept it as given.
+A standard way to dismiss arguments is to show that they result in a contradiction.
+
+- A type of argument called /*reductio ad absurdum*/, or "reduction to the absurd" in English.
+
+  + In /reductio/ arguments, we assume a premise, show that it leads to an unacceptable (or absurd) consequence, and then conclude the opposite of our assumption.
+
+  + An example from Plato: some people say honesty is the definition of justice.
+    Assume that is true.
+    A murderer comes to your house and asks you if you are hiding a friend she intends to kill.
+    You are just, so you are honest with she and tell him you are.
+    But giving up your friend to be murdered is unjust.
+    So you are both just and unjust.
+    This is a contradiction and thus absurd.
+    So honesty cannot be the definition of justice.
+
+** PSR
+
+- *Principle of Sufficient Reason* (PSR): "No fact can hold or be real, and no proposition can be true, unless there is a sufficient reason why it is so and not otherwise" (Leibniz, /Monadology/ §32)
+
+- In plain English, for every fact (or event) that exists, there is a reason (or cause) that explains why it is the case.
+
+- PSR is another one of these "brute" philosophical principles (but it is more controversial than PNC).
+  Some cases that seem to violate the PSR:
+
+  + /Circular reasoning/ (or begging the question): when you assume what you are trying to prove.
+    From Descrates: the Bible is true because it is the word of God; God exists because it is written in the Bible. (or arguments against capital punishment, abortion, etc.)
+
+  + /Infinite regress/: An infinite regress is a series of appropriately related elements with a first member but no last member, where each element leads to or generates the next in some sense
+
+    - Why hold that A is true? Because of Bb. Why hold that B is true? Because C, and so on.
+
+* 2021-09-10
+
+** Freeland: Blood & beauty
+
+Freeland starts from a common ground of "everyone appreciates art but there is a log of ugly/violent/bloody/shocking art"
+
+Then moves to identifying a point of destabilization for this common ground: "it seems paradoxical that so much disgusting art has been produced. We wouldn't enjoy these things in real life...we don't seem to enjoy them in art, so why does it exist?"
+
+Her contribution is to begin to explain this puzzle and to introduce us to some basic ideas/terms in aesthetics/philosophy of art
+
+"Why has blood been used so much in art?"
+
+Possible ways to read this: why are these artworks?
+What is the value of ugly/disgusting/unsettling works?
+What sorts of responses are merited by ugly works?
+What is an effective way of appreciating these works?
+
+** Blood & beauty: key terms
+
+- Taste (p. 8-11): the faculty for discerning aesthetic value in objects (natural/artificial), e.g., "My friend dislikes the most recent Charli XCX song. She has bad taste."
+
+- Disinterestedness (p. 12-13): Pleasures that are enjoyed independent of our /interest/ in the object.
+  In this context, interest, is used in a financial sense (to have a stake in something) and not in the common sense of something that grabs your attention.
+  So to enjoy something in a disinterested manner is to enjoy it independent of one's ability to possess the object, independent of the object's utility, independent of the object's relation to one's political/moral stance
+
+** Disinterestedness examples
+
+- You are very hungry. You see a painting of your favorite meal. You think the painting is beautiful because having the meal would satisfy your hunger.
+
+- Your partner is a musician. You think their music is beautiful because you want to be supportive of their work.
+
+- You watch the National Dog Show. You think the beagle is ugly because your neighbor's beagle was mean to you as a child.
+
+- You are a physicist. You think the latest sci-fi blockbuster film is terrible because the film violates the lawys of physics.
+
+- You are communist. You think Kim Kardashian's house is hideous because people shouldn't be so rich and live in such opulent homes.
+
+- You are a vegan. You think all analog photography is hideous because it is immoral to use animal products.
+
+** B&B Disinterestedness
+
+Notice that these evaluations are at least two ways ambiguous:
+
+1) The object is good/bad as something that fulfills a desire/purpose/function
+2) The object is good/bad as an object of aesthetic consideration
+
+Kant's claim is that these are separate evaluations so that:
+
+A Thinkpad fulfills (2) but fails to meet (1); a pair of Crocs fulfills (1) but fails (2)
+
+* 2021-09-22
+
+Read Plato's /Republic/ pp. 297-311 for Monday.
+
+** Conceptual Framework
+
+But cities are made of people.
+The organization of the city depends upon the organization of the people.
+At an individual level, how do we think of aesthetic-ethical connection?
+
+E.g., do we allow children to engage with explicit art objects?
+
+Or cases where crimes are attributed to video games/music (e.g., Slayer)
+
+It's plausible that we hold some connection between our experience of aesthetic objects and its impact on us (e.g., emotionally)
+
+And some people think that this connection may get us to do irrational things, sometimes unethical things.
+
+So you have to uphold certain precautions to avoid the artistic influencing possible unethical action.
+
+Plato holds a strong version of this view that has been influential ever since.
+
+** Context
+
+Standard narrative: philosophy doesn't begin in Ancient Greece, but a certain kind of moral philosophy does.
+
+This philosophy is distinguished by its /content/ (the sort of questions it asks)
+
+And its /method/ (the way it goes about doing philosophy)
+
+Socrates ==> Plato ==> Aristotle
+
+Method: Elenchus (later dialectic), a question/answer approach where a definitional question is posed (e.g., what is justice?)
+an initial answer is given, and questions/objections are posed to that answer in order to refine it
+
+Endoxa, to begin an inquiry into something by surveying the testimony of commonplace views (E.g., what is justice? The experts say A, B, C, D...)
+This is usually done to present advantages/disadvantages of each view and present one's alternative
+
+** Context: Socrates
+
+- Little is known about the historical Socrates
+
+  + Exceptionally ugly & clever
+
+  + Interested in moral problems
+
+    - Specifically questioning convential moral values (e.g., what is justice?)
+
+  + Mentor to many including Plato
+
+  + Wrote nothing out of ignorance
+
+  + Executed for being annoying
+
+** Context: Plato
+
+- Influential Athenian thinker who wrote on theoretical and moral/practical topics
+
+- Only exoteric works survive:
+  works meant for public consumption
+
+  + Dialogues: conversations between people, often real historical figures
+
+  + Difficult to know if they are meant to be historically accurate or heuristic
+
+- Ideaes are the underlying stuff of reality
+
+  + Our world is one of appearances, individual objects are imperfect imitations or ideas
+
+** Socratic/Platonic Emotions
+
+The Greeks maintain that the /guise of the good/ is true:
+
+If you desire something, you desire it because you take it to be good.
+
+If you do something, you do that action because you take it to be good.
+
+GotG: All desire/action aims toward some /perceived/ good.
+
+** Socratic Emotions
+
+A puzzle.
+If this view is right, how can you perform an action while having an emotion that is opposed to that action (e.g., doing something courageous while being afraid)?
+
+This problem is called /akrasia/ (roughly, weakness of the will or acting against one's better judgment)
+
+Or consider: I'm diabetic. I know I shouldn't eat sweets, but I eat them anyway.
+
+** Platonic Emotions
+
+- Plato thinks we are composite beings: soul and body (but soul takes priority)
+
+- How soul & body are connected is difficult to say
+
+  + But he argues (In /Republic/, book 4) that the soul is tripartite
+
+    - Appetitive (bodily desires like hunger/thirst)
+
+      + Emotions that are non-rational or irrational
+
+    - Spirited (specific kinds of cognitive emotions like outrage and guilt)
+
+    - Rational (for deliberation/calculation)
+
+    - A person is unjust when they are ruled by the appetitive soul (they are irrational)
+
+** The text itself
+
+/Republic/ mainly seen as work in political philosophy
+
+It's a text that attempts to answer two questions:
+**What is justice?**
+**Is justice more beneficial than injustice?**
+
+An indirect answer through the construction of an ideal city: what features would a city have it is to be good?
+
+The city and the citizen comprises forces potentially at odds with one another:
+**social classes** in the city and parts of the **soul's parts** in the citizen.
+**Justice** for both is the **harmony** among these divisions.
+When the parts are **disharmonious**, the result is **unhappiness**; the greater the disharmony, the greater the misery.
+Therefore, **justice is better than injustice.**
+
+* 2021-09-27
+
+** Socratic/Platonic Emotions
+
+*** Socratic Emotions
+
+A puzzle.
+
+It seems you have a desire to perform the action and a desire to not do the action.
+How do you act?
+
+This problem is called /akrasia/.
+
+*** Platonic Emotions
+
+- Plato's view traditionally seen as body vs soul
+
+  + Emotions come from body and they hijack your soul
+
+- Maybe more complex
+
+  + Even for Plato, appetites involve beliefs
+
+  + To want the food is to believe it is good/will satisfy your hunger/be pleasurable, etc.
+
+- In Plato, it seems that emotions can only get in the way of living well, but rarely contribute to a good life
+
+  + Emotions motivative us to behave in certain ways based on a fundamental understanding of reality and this is irrational
+
+  + Emotional education is to curb the emotions through reason
+
+- The most just city
+
+  + Political organization (who rules?)
+
+  + Social organization (who works? Who does what?)
+
+    - How are people educated?
+
+    - How large should the city be?
+
+- A just city needs just citizens, and they need to be educated in a particular way
+
+  + This is more important than just having laws. Why?
+
+  + Just laws are external to the citizen; Education, tradition, custom, etc. are internalized by citizens.
+
+  + Citizens who are improperly educated (governed by appetites) will be less responsive to the laws than those who have the proper disposition as a result of education.
+
+** Arguments for the division of the soul (psyche)
+
+- Preliminaries for purposes of orientation:
+
+  + The just city is tripartite because justice necessitates it
+
+  + Objects with the same predicates have something in common (e.g., the purple dinosaur and the purple extraterrestrial share something by virtue of which they are both said to be purple)
+
+  + So, the city is just & the citizen is just.
+    What do they share in common?
+
+    - Hypothesis: the structure of the citizen will parallel the structure of the city, that is, their soul will be composed of three parts and one must rule over the other (120-122)
+
+** Plato's division of the soul
+
+- The argument is simple: it appeals to the principle of noncontradiction (PNC) and /akrasia/
+
+  + They begin with an invocation of PNC
+
+    #+begin_quote
+    It is clear that the same thing cannot do or undergo opposite things; not, at any rate, in the same respect, in relation to the same thing, at the same time.
+    So, if we ever find that happening here, we will know that we are not dealing with one and the same thing, but with many.
+
+    -- Socrates (p. 123)
+    #+end_quote
+
+  + Examples: people cannot be in opposing states at the same time (123-126)
+
+- Specific example: the thirsty person (p. 127)
+
+  + The thirsty person desires to drink, they have an *appetite* for drink
+
+    - Plato thinks appetitive desires are impulsive on their own, they cannot regulate themselves (e.g., he says thirst is for drink only not kind of drink)
+
+  + The thirsty person desires not to drink, they have a *reason* not to drink
+
+    - Reason is a motive to self-regulation and must be distinct from appetite
+
+  + The thirsty person wants both: drink and not-drink at the same time, but this is absurd (from PNC)
+
+  + So conflict in the soul implies different parts opposed to one another
+
+- Conclusion: the soul has distinct parts: one for appetites, one for reason
+
+- The third Spirited part is inferred via psychological observation (pp. 128--129)
+
+  + The story is meant to show that people are guided by desires that they themselves deem irrational, they *judge* that they should act otherwise, but they perform the action anyway
+
+  + Appetitive part wants to look at corpses
+
+  + Reason deems it should not do so
+
+  + Spirited part angry with appetitive soul
+
+    - Plato also gives other examples to show that passion and reason are distinct, sometimes people are vain and go against reason
+
+    - This is the most vague part--seems to be emotions tied to evaluation: anger, glory, jealousy, indignation, revenge, shame, etc.
+
+** The famous passage
+
+#+begin_quote
+But I once heard a story and I believe it.
+Leontius, the son of Aglaeon, was going up from the Piraeus along the outside of the North Wall when he saw some corpses with the public executioner nearby.
+He had an appetitive desire to look at them, but at the same time he was disgusted and turned himself away.
+For a while he struggled and put his hand over his eyes, but finally, mastered by his appetite, he open his eyes wide and rushed towards the corpses, saying:
+"Look for yourselves, you evil wretches; take your fill of the beautiful sight."
+
+-- Socrates (pp. 128--129)
+#+end_quote
+** Hierarchy
+
+From smallest to largest,
+
+Reason < Spirit < Appetites
+
+** Platonic soul
+
+- Granting the plausibility of this, the soul has three parts
+
+  + Appetitive: seeks immediate sensual pleasure and avoids pain
+
+    - Examples of appetites: hunger, thirst, sexual desire
+
+      + Least cognitive, shared with animals.
+        People who act this way are guided by changes in their bodies and environment
+
+    - Anticipates pains or pleasures
+
+    - Cognitive appetities: desire for wealth
+
+  + Spirited: the seat of emotions connected with self-assurance and self-affirmation
+
+    - Examples: shame, anger, guilt, honor, good reputation
+
+    - Naturally inclined to reason and can be habituated to serve reason
+
+  + Reasoning: loves wisdom, truth, and knowledge
+
+* 2021-09-29
+
+** Overview
+
+1) Context
+
+2) Aim of the work: art criticism or censorship?
+
+3) The text and its presuppositions
+
+   - Forms, the soul, and Plato's psychology
+
+4) The argument
+
+   a) What is art? (596e-602c)
+
+   b) What is the effect of art? (602c-608b)
+
+   c) From 4a & 4b, art should be banned from the republic (606c-608b)
+
+   d) Possible exceptions (607e)
+
+5) Conclusions & Implications
+
+** Context
+
+- Excerpt from a utopian text: should poetry be allowed in the perfectly just city?
+
+- Plato's explicit interest is poetry/painting (but all "imitative art")
+
+  + His notions of "imitation" and "poetry" differ from ours
+
+- The basic accusation is that these works, because they are imitations, are "at a third remove from the truth" and so they impair our thought and corrupt our minds.
+
+  + So it would be unjust to allow imitative artworks into the perfectly just city
+
+- Why read Plato?
+
+  + A common intuition on the connection between art and imitation
+
+  + A common intuition on the connection between art and morality
+
+** Plato's theory of forms
+
+- Eidos = Iden = Form
+
+- Is there a form of table, chair, dog, ordinary objects?
+  Probably not.
+  Plato is concerned with values (justice, beauty, piety) and how it is that we have knowledge of these values.
+
+  Plato thinks the forms are mind and language independent.
+  Forms are abstract entities that have all of their intrinsic properties essentially, they are the perfect instances of the qualities they are.
+
+** Arguments for Forms
+
+1. Sensibles are in flux.
+
+2. Whatever is in flux in unknowable.
+
+3. Therefore, sensibles are unknowable.
+
+4. There is some knowledge.
+
+* 2021-10-01
+
+** Plato's Argument against Imitative Art
+
+- Art is a kind of imitation, but
+
+- What is imitation?
+
+- An imitation is an appearance of an appearance: The bed analogy
+
+  + There are three categories of beds and three categories of makers corresponding to each category
+
+    - Plato's god - natural maker - form of bed
+
+    - Carpenter - craftsperson - particular bed
+
+    - Painter - imitator - appearance of a particular bed
+
+* 2021-10-08
+
+** Assignments
+
+- /Poetics/, sections 1--9
+
+- /Politics/--"catharsis"
+
+* 2021-10-11
+
+** Plato's critique of imitative arts
+
+1. Art requires no knowledge (e.g., Homer)
+
+   a. Elsewhere Plato thinks art is made through inspiration, which is a kind of divine madness
+
+2. Art teaches the wrong things (e.g., the grief stricken parent argument)
+
+3. Art is an imitation; imitation is twice removed from truth
+
+4. Poetry encourages emotions and appeals only to the appetitive part of the soul
+
+From 1--4 it is supposed to follow that imitative arts ought to be banned from a city that is just.
+
+** Points of inquiry
+
+Plato only focuses on art's negative effects.
+What about its positive effects?
+
+What is the connection (if any) between our emotional responses, reason, and objects of aesthetic value?
+
+Why think that art has to imitate (in a strict sense) the things we perceive?
+
+** Inquiry
+
+A distinct puzzle: why do we take pleasure in representations of things we would normally find displeasing (e.g., tragedy, horror)?
+
+This is referred to as the "paradox of negative emotions"
+** Paradoxical predecessor
+
+#+begin_quote
+It seems an unaccountable pleasure, which the spectators of a well-written tragedy receive sorrow, terror, anxiety, and other passions, that are in themselves disagreeable and uneasy... They are pleased in proportion as they are afflicted, and never are so happy as when they employ tears, sobs, and cries to give vent to their sorrow, and relieve their heart, swoln with the tenderest sympathy
+#+end_quote
+
+** Historical Detour
+
+Aristotle (384-322)
+
+Son of a physician in the court of Macedon, was the tutor of Alexander the Great, and most likely Plato's student.
+
+No exoteric works survive, only have esoteric works.
+
+Analytic/systematic compared to Plato.
+Seeks to explain the phenomena of the natural world via observation and testimony.
+
+/Poetics/ is an incomplete work; first half dedicated to tragic poetry, second half to comedy.
+
+** Overview of Aristotle's reply
+
+General line of thought: poetry can be philosophical and educational without being either a philosophy treatise or a textbook.
+
+1. Poetry requires skill and is rule-based.
+   These rules can be learned (Chs 1-8).
+   Learning entails knowledge
+
+2. Poetry is a representation that can be useful.
+   Representations resemble the real thing and picking out this resemblance is intellectual.
+   Poetry is philosophical because it represents universals, "what a certain kind of person would say/do in a certain kind of situation"
+
+3. Poetry does arouse emotions, but this can be useful/therapeutic (presumably through catharsis)
+
+* 2021-10-13
+
+** Aristotle's terms
+
+- "End" = (/telos/) the goal/purpose/function for the sake of which it is done (applies to actions, objects, organisms, etc)
+
+- "Representation" = From the Greek /mimesis/, in Plato this is usually translated as "imitation" meaning in the direct copying of osmething, but broader in Aristotle, See ch 25.
+
+- "Catharsis" = ??? A Greek medical term for cleansing, purification, purgation. Its use in /Poetics/ is unclear.
+
+** The text: poetry and its origins
+
+- Chs 1-3: poetry in general
+
+  + Many ar
+
+- Chs 4-5: the genesis of poetry and its genres, 4 is important
+
+  + Poetry has two causes in human nature, imitation a
+
+- Explained in chs 6-12
+
+  + Tragedy... *pity and fear*
+
+  + (9; 1452a1, 2323)
+
+  + Tragedy
+
+* 2021-10-15
+
+** Tragedy and its function
+
+Things have functions.
+E.g., a knife's function is to cut.
+A knife is good or bad to the extent that it can fulfill this function.
+
+Aristotle thinks of almost everything in terms of its proper function.
+Tragedy is also like this.
+The purpose of tragedy is to produce "tragic pleasure" (Ch 14).
+The most important part of a tragedy is its plot.
+
+So the plot must directly contribute to producing this tragic pleasure.
+
+The function of a tragedy is to produce a unique kind of pleasure that results from the representation of plot.
+
+Plots are unified (e.g., they have a beginning/end).
+What unifies or structures the narrative?
+
+It's the *action* of a character.
+Action is something performed by an agent for a purpose, not action in the sense of violent hero plots.
+
+The relevant seense of Action does not mean performing an ordinary task.
+
+Action as the exercise of a person's capacity to be virtuous: justice, temperance, courage, wisdom.
+
+Action as rooted in the values that are necessary for our human flourishing.
+
+** The text: tragedy & plot
+
+- Plot is the most important part of a tragedy:
+
+  + Plot is "the combination of the incidents, or things done in the story" (6; 1450a5, 2320)
+
+  + The plot should be unified, meaning that it follows a single action rather than a single person (from ch 8)
+
+  + Actions are unified because they originate in an agent who performs them, an agent who has a particular ethical character.
+
+** Tragedy and its end
+
+- Explained in chs 13-20
+
+  + Tragedies should have complex plots and represent incidents that arouse terror and pity
+
+  + Good tragedy will not show:
+
+    - decent characters going from good to bad fortune
+
+    - wicked characters going from bad to good
+
+    - wicked characters going from good to bad
+
+  + *Good tragedies* will show normal characters changing from good to bad fortune because of a great error either due to some character flaw or intellectual flaw
+
+    - In the best cases, they will act out of *ignorance*, and the best incidents are between friends/family
+
+* 2021-10-18
+
+** What is a work of art?
+
+Artworks *imitate* the things in the world
+
+** Recapitulation
+
+In Aristotle's case, the most robust kind of learning is tied to emotional response.
+It seems that an appropriate response to a tragedy expresses that one has a proper understanding of the action (and action is always ethical)
+
+But how can negative emotions be pleasing?
+This is less clear.
+
+** One reading of catharsis
+
+1. Psychological "purification" view - there's a psychological process whereby we feel relief from pity/terror, and this relief is pleasing relative to the prior negative state.
+
+   a. Common sense view + suggested in /Politics/
+
+   b. A cleansing of negative emotions through other negative emotions?
+
+   c. This view applies to other cathartic arts (comedy and music), doesn't seem to capture what is unique to them
+
+** Assignment
+
+Tolstoy, Chs 5 & 8
+
+* 2021-10-20
+
+** What is Art?
+
+- Modernity and the shift of the European/Russian landscape
+
+- An investigation into the /definition/ of art
+
+  + It's supposed to be a description, e.g., that is a *cat*, where cat is a descriptive term that excludes a lot of non-cat beings (e.g., dogs)
+
+  + Text is very evaluative
+
+    - That's not art, it's a toaster (descriptive)
+
+    - That's not art, it's nonsense (evaluative)
+
+  + Ordinary person's perspective
+
+    - Art is produced under untenable conditions
+
+    - Art's content is alienating/meaningless
+
+    - Beauty is not essential to art
+
+** A need for clarity
+
+Tolstoy's criticisms:
+
+1. art requires the sacrifice of resources
+2. these resources could go to other things
+3. the sacrifice for art is justified if art produces something meaningful
+4. but art produces nonsensical things
+5. therefore, the sacrifice is not justified
+
+** Tolstoy's goal
+
+Revise our understanding of "art"
+
+Silly art is passed off as art because people don't understand art's purpose.
+Proper understanding of art = proper understanding of its purpose.
+This will enable us to produce proper artworks.
+
+** Common answers
+
+We just /know/ what art is: But "Art in all forms is bounded on one side by the practically useful, and on the other by unsuccessful attempts at art. How is art to be marked off from each of these?"
+
+Art is the activity that produces beauty: But there are many beautiful things that we don't consider art, e.g., perfumer, chef, costume maker, hairdresser, gardener.
+What distinguishes these activities from art?
+
+Further problem: this definition is not helpful because it is not simple.
+That is, it attempts to explain art in terms of beauty, but beauty itself is not clear.
+
+* 2021-10-25
+
+** Reading Assignment
+
+"Homing in on the Emotions," from Deonna and Teroni's /The Emotions/
+
+** Preliminaries
+
+Some points to guide us in reading/discussion:
+
+- What objects count as art on this view?
+
+- Are there conditions for expressing emotion?
+
+- Do the artist's intentions matter?
+
+- Does art express any emotion?
+  Are there restrictions on the kind of emotions it expresses?
+
+* 2021-11-01
+
+** Counterfeits?
+
+Counterfeits are bad.
+They have no meaning.
+They do not fit Tolstoy's definition of art.
+
+Counterfeit methods:
+
+1. borrowing
+2. imitation
+3. effectfulness
+4. diversion
+
+** Upshot & Implication
+
+What are we doing when we say (The work expresses X)?
+
+** Types of expression
+
+Saying an artwork expresses something implies the work has *anthropomorphic qualities* such as attitudes, emotions, moods, character traits, etc.
+
+*** Example
+
+"The poem is angry" is ambiguous.
+
+1. Poet reports that she is angry
+
+2. Poet expresses her anger
+
+We care about the second point.
+
+** Tolstoy
+
+1. Sincerity
+
+   - If artist lacks feeling, then the work cannot express feeling.
+
+2. Arousal
+
+* 2021-11-03
+
+** Historical Preliminaries
+
+- What are emotions?
+
+  + Usually involve a belief about the world
+
+  + Usually involve an evaluation based on that belief
+
+- How much, if any, control do we have over emotions?
+
+- Are emotions connected to action? Reason?
+
+** Homing in on the Emotions
+
+Goal of the chapter is to outline three central characteristics:
+
+1. Phenomenology - the subjective "what-it-is-like" experience of any emotion
+
+2. Intentionality
+
+3. Epistemology - the sort of standards to which emotions are answerable
+
+** Phenomenology
+
+A technical term for "study of appearances"
+
+You can know (conceptually) what it means to be jealous without experience it.
+It's a different thing to experience it.
+
+To experience jealousy is to add the distinct /feelings/ associated with it:
+
+1. Physical feelings (your body becomes tense)
+
+Emotions seem to have a distinct phenomenology (e.g., the feeling of sadness/anger)
+
+But not all of them are going to have physical feelings attached and descriptions vary based on what each individual focuses on at the time.
+
+But phenomenology is important: Imagine your friend says "I'm angry," you don't know what they're angry about, but you already know a lot about their current psychological state
+2. Hedonic feelings (displeasure)
+
+** Interlude
+
+In this text, /emotion/ and /feeling/ are distinct.
+
+An emotion is a general term that groups together a lot of physical and psychological things.
+
+Emotions consist, in part, of feelings.
+
+Feelings are not identical to emotions (e.g., feeling hot or cold)
+
+* 2021-11-05
+
+** Intentionality
+
+Technical term to denote that mental states are about something, they are directed at some object.
+
+Some emotions intend /objects/: I am angry at /you/, I am afraid of the /bear/, I am in love with /you/, etc.
+
+* 2021-11-08
+
+** Emotional response to fiction?
+
+1. Response Condition: People experience (genuine, ordinary) emotions toward fictional characters, situations, and events.
+
+2. Belief Condition: People do not believe in the existence of fictional characters, situations, and events.
+
+3. Coordination Condition: People do not experience (genuine, ordinary) emotions when they do not believe in the existence of the objects of emotion.
+
+** Epistemology
+
+There are standards by which we assess emotions.
+
+/Standards of correctness/ - "have a content in the light of which it is possible to assess whether they fit the facts or not" (6).
+
+E.g., You are afraid of a neighbor's dog, but the dog is friendly.
+Your fear is inappropriate.
+
+Emotions seem to be correct or incorrect depending on whether or not they fit the facts, emotions seem to aim at representing the world as it is.
+
+/Epistemological standards/ - the things that justify a person's having an emotion.
+This can be reasons, reliable testimony, evidence, etc.
+
+E.g., I am /justified/ in being happy that my wife is in good healthy because I heart it from a reliable witness.
+I am /unjustified/ in...because I heard it from an unreliable witness.
+(This is the case even if my wife is in good health.)
+
+We often request reasons for emotions.
+Emotions are similar to belief in this way.
+
+We don't think of moods as being related to reasons.
+
+** Recapitulation
+
+Three characteristics of Emotions
+
+a) Phenomenology - To experience a particular emotion is to feel it in a particular way.
+
+b) Intentionality - Emotions are directed at particular objects or states of affairs.
+   Sometimes these are direct perceptual objects, other times emotions depend on other mental states.
+
+c) Epistemology - Emotions may be assessed according to various standards, including correctness and justification.
+
+** Desire & Emotion
+
+/Episodic/ emotion (8): present instance of being in the grip of an emotion
+
+Affective disposition: tending to feel an emotion toward an object in certain circumstances
+
+Authors are more interested in episodic emotion (at least for most of the text).
+
+Desires are also part of mental life that seem to involve feelings.
+How do they differ?
+
+- Episodic desires not always felt (e.g., I desire to go to Sweden next summer)
+
+- Desires are not obviously episodic (not always in the grip of a desire)
+
+  + I may desire to go to Sweden even when I'm not thinking about it
+
+- Desires are always about states of affairs that do not already obtain
+
+  + E.g., If you know Mary is alive, you cannot desire for her to be born
+
+- Desires are (somehow) related to your belief that you can do something to fulfill that desire
+
+  + It is incoherent to desire to undo something in the past
+
+  + Emotions may be motivational but many are directed at the past
+
+- Trick cases: hope, wish, etc. Desire? Emotion? Both? Neither?
+
+** Emotions, beliefs & desires
+
+We noted that emotions are general categories that unify separate components.
+This includes: beliefs and desires.
+
+What role do these play?
+Are emotions identical to beliefs and desires?
+
+Two theories that account for this:
+
+1) Mixed Theory
+2) Desire Satisfaction/Frustration Theory
+
+** Belief & Desire
+
+Recall: emotions are intentional.
+They are about some object in the world.
+
+"Jonas is afraid of the dog" means Jonas has to have some representation of the dog in his mind.
+
+Isn't that a belief?
+
+So "Jonas is afraid of the dog," implies he has a belief about the dog that causes the emotion.
+
+Problem: the belief about the dog (e.g., there is an angry dog) and the emotion (e.g., fear) are not closely linked.
+
+You may have the same belief and feel a different emotion...so we need something else that explains the specific connection.
+
+Proposed solution: *Desires* explain the connection.
+
+** Fussy Interlude
+
+"/Conative/" from the Latin /Conatus/, it means "to strive"
+A term that relates to your willing faculty (I wish, I desire, I want, I hope), a faculty to bring about things in the world.
+
+**Identity**, a strict logical relation.
+
+4 = 3+1, 2+2, etc.
+
+If 1 concept is identical to something else, it just is those components.
+The concept reduces to those parts.
+
+** Mixed Theory
+
+Emotions are identified with combinations of beliefs and desires (30).
+
+Emotions = belief(s) + desire(s)
+
+(Emotion) Afraid = belief (I see a snarling dog) + desire (I have a desire to avoid being attacked by the dog)
+
+Beliefs are "mind-to-world," your mind conforms itself to the world in order to represent something (e.g., the dog outside you)
+
+Desires are "world-to-mind," "desiring is being in a state that inclines the subject to alter the world so as to make it fit her representation of the desired state of affairs" (30).
+
+Benefits of the view are that it can explain specificity of emotions & close link between emotion and behavior/action.
+
+Belief-desire model of action is a popular folk psychology view:
+All action results from belief and desire, e.g.,
+
+Getting a coffee (action) is the result of having a belief (there is coffee in the kitchen) and a desire (I want coffee).
+
+** Mixed Theory: Objection
+
+The theory is viciously circular (32)
+
+Desire to flee from the dog is already motivated by the emotion (the fear of the dog).
+So the desire is actually explained by that emotion, it is not a component of the emotion.
+
+To get out of this problem, you have to make the view so vague that it fails to explain what we set out to explain.
+
+Nevertheless, desires seem important.

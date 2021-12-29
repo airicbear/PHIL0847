@@ -1,0 +1,36 @@
+#+TITLE: Street Art Reading Response
+#+AUTHOR: Eric Nguyen
+#+OPTIONS: toc:nil num:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+EXCLUDE_TAGS: noexport
+#+EXPORT_FILE_NAME: StreetArtReadingResponse_NguyenEric
+
+For much of history, art has been perceived to be the result of work that has great aesthetic value and it has been believed that this aesthetic value through the work of art should be preserved, for example, through the security of a museum or gallery, and whose artist's should be widely recognized for their works of art.
+However in recent times there has been a new perspective on art emerging, one that is not necessarily based on aesthetic value and permanence, but instead on anonimity and ephemerality in what Riggle calls "street art" (p. 243).
+Riggle defines street art as so,
+#+begin_quote
+An artwork is /street art/ if, and only if, its material use of the street is internal to its meaning.
+#+end_quote
+and as such, street art is subject to the conditions of the street, such as illegality, anonimity, ephemerality, creativity, and attractiveness (p. 246).
+In other words, once the art is on the street, the artist has no control over it and leaves it up to nature and the public on how long it lasts.
+In addition to being ephemeral, the illegality of street art also makes it widely anonymous, with many street artists being difficult to track down.
+
+The difference between public art and street art, as Riggle explains it, is that a public space is considered to be the street "only if it is the object of a certain constellation of practical attitudes, including the belief that the space is primarily for the public" (p. 255).
+That is, the street is a place reserved for public use and public spaces that are not oriented for public use are not considered as street.
+In his discussion on the "Tilted Arc" sculpture in the center of New York City's Federal Plaza, he argues that due to its involvement with the artworld and how it "transforms the public space into an artworld-sanctioned artspace," the Tilted Arc sculpture is not street art but rather an intrusive public art.
+Despite the fact that the sculpture uses a public space and that the use of public space is internal to the sculpture's meaning, it makes the space oriented for the artworld rather than intended for the public; and in Riggle's words, transforms the space into a "museum-in-public" and strips away any street artistic significance from the public space.
+
+Riggle defends street art as he views it as a response to modernism's separation of art and life.
+Instead of having a central place of art that people have to dedicate some time and effort to visit, such as a museum or gallery, street art allows people to enjoy art as part of their everyday life.
+One of the unique aspects about street art is that it is not subject to formalist criticism applied to institutional art, i.e., purely attend to the artwork's aesthetical features, but instead understanding street art relies on attending to "its material use of the street" (p. 249).
+A question to consider when pondering and criticising street art is "How does it pull you out of your everyday life?"
+
+* Prompt :noexport:
+
+1. What is Riggle's definition of "street art"? Cite it, and explain it in your own words. Consider the following: what practices does street art include? what objects does it comprise? (i.e., street art is not just graffiti)
+
+2. How does Riggle distinguish public art from street art? Why is the distinction important? (e.g., Is Robert Indiana's Love public art? street art? both? something else?)
+
+3. What are Riggle's motivations for defending the category of street art? How does he see street art as fitting into the narrative of modern art? What are some of street art's unique advantages?
+

@@ -1,0 +1,367 @@
+#+TITLE: Plato and the Mass Media
+#+AUTHOR: Alexander Nehamas
+#+OPTIONS: num:nil toc:nil date:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \frenchspacing
+#+LATEX_CLASS_OPTIONS: [12pt]
+
+* Introduction
+
+Book X of the /Republic/ contains a scathing attack on poetry which is still, by turns, both incomprehensible and disturbing.[1]
+Plato's banishment of the poets from his model city has always been a cause of interpretative difficulties and philosophical embarrassments, even for some of his greatest admirers.
+But I am now beginning to believe that the difficulties are not real and that the embarrassments are only apparent, and my purpose in what follows is to offer an outline—I cannot do more than that on this occasion—of my reasons for thinking so.
+I am convinced that close attention to the philosophical assumptions which underlie Plato's criticisms reveals that his attack on poetry is better understood as a specific social and historical gesture than as an attack on poetry, and especially on art, as such.
+But placed within their original context, Plato's criticisms, perhaps paradoxically, become immediately relevant to a serious contemporary debate.
+
+* Section 1
+
+The interpretative difficulties of Book X are relatively easy to dispose of.
+The first is that this book seems to return to a subject which Plato, as we know, had already discussed extensively in Books II and III.
+But the fact is that the subject of Book X is different.
+The earlier books concern the function of poetry in the education of the young Guardians, in which it plays an absolutely central, if rigidly censored and controlled role.
+Book X, however, concerns the almost total exclusion of poetry, with the exception of a few "hymns to the gods and praises of noble people" (607a4), from the life of the adult citizens—an exclusion which must have been absolutely shocking to Plato's Athenian audience, accustomed as it was to a large variety of dramatic festivals and poetic contests throughout each year.[2]
+Moreover, Book X addresses this new subject by new means, on the basis, namely, of the metaphysics, epistemology, and psychology developed in books IV-IX and unavailable to Plato (595a5-bl) on the earlier occasion.
+
+The second difficulty, which has bothered many commentators, concerns a conflict between Plato's first discussion of poetry and his return to it in Book X.
+The latter notoriously begins with the statement that all mimetic poetry has already been excluded from the city, while Book III has actually encouraged the young to engage in the imitation of good characters (397d4-7).
+I once tried to eliminate this conflict, without ultimate success, on the basis of the distinction drawn in the previous paragraph.[3]
+But the conflict can in fact be eliminated on the basis of another distinction.
+This is the contrast between being an imitator (/mimetes/) on the one hand and being imitative (often expressed by the term /mimetikos/) on the other.
+
+Plato clearly allows the young Guardians to be imitators of good characters.
+But actually he allows them to imitate bad characters, if it is necessary and if they do so not seriously (/spoudei/) and only in play (/paidias chariri/)—that is, in order to satirize and ridicule them (396c5-e8).
+Plato forbids not imitation, which he considers essential to education, but imitativeness, the desire and ability to imitate anything independently of its moral quality and without the proper attitude of praise or blame toward it (395a2-5, 397al-b2, 398al-b4).
+When Socrates says in Book X that "all mimetic poetry" (/poieseos hose mimetike/) has been excluded from the city, he does not refer to all imitation but only, as his own word shows, to poetry which involves and encourages imitativeness: the conflict disappears.[4]
+
+The elimination of these interpretative difficulties may help to show that Book X is an integral part of the /Republic/.[5]
+But this only adds to the philosophical embarrassments it creates.
+Why, after all, does a work of moral and political philosophy end with a discussion of aesthetics?
+The obvious answer is that Plato simply does not distinguish aesthetics from ethics.
+His argument against poetry depends on ontological principles regarding the status of its objects and on epistemological views about the poets' understanding of their subject-matter, but his concern with poetry is ethical through and through.
+It is expressed in just such terms both at the very beginning of the argument, when Socrates claims that tragedy and all imitative poetry constitute "a harm to the mind of its audience" (595b5-6) and at its very end, when he concludes that if we allow poetry in the city "pleasure and pain will rule as monarchs… instead of the law and that rational principle which is always and by all thought to be the best" (607a5-8).[6]
+
+It is just this obvious answer, however, that causes the greatest philosophical embarrassment by far because it suggests that Plato is utterly blind to the real value of art, that he is unable to see that there is much more than an ethical dimension to art, and that even in its ethical dimension art is by no means as harmful as he is convinced it is.
+
+It is against this embarrassment that I want to defend Plato, though I do not want to have to decide whether he was right or wrong in his denunciation of Homer and Aeschylus.
+I believe, and hope to convince you as well, that the issue is much too complicated for this sort of easy judgment.
+But I do think that Plato's view deserves to be reexamined and that it is directly relevant to many contemporary concerns.
+Plato's attitude toward epic and tragic poetry is in fact embodied in our current thinking about the arts, though not specifically in our thinking about epic and tragedy.
+Though his views often appear incomprehensible, or reprehensible, or both, we often duplicate them, though without being aware of them as his.
+If this is right, then either Book X of the /Republic/ is more reasonable and more nearly correct than we are ever tempted to suppose or we must ourselves reevaluate our own assumptions and attitudes regarding the arts.
+
+First, a preliminary point.
+Plato is not in any way concerned with art as such.
+This is not only because, if Paul Kristeller is correct, the very concept of the fine arts did not emerge in Europe until the eighteenth century.[7]
+The main reason is quite specific: Plato does not even include painting in his denunciation.
+His argument does in fact depend on a series of analogies between painting and poetry, and he introduces all the major ideas through which he will eventually banish the poets by means of these analogies.
+This has led a number of scholars to conclude, and to feel they should explain why, Plato banished the artists from his model city.
+But a careful reading shows that neither painting nor sculpture is outlawed by Plato.[8]
+This suggests, as we shall see in more detail below, that no general account of Plato's attitude toward the arts is required.
+It also implies that we must determine which specific feature of imitative poetry makes it so dangerous that, in contrast to the other arts, it cannot be tolerated in Plato's city.
+
+This feature, on which Plato's argument against poetry crucially depends is that poetry (in telling contrast to painting and, particularly, to sculpture) is as a medium inherently suited to the representation, or imitation, of vulgar subjects and shameful behavior:[9]
+#+begin_quote
+The irritable part of the soul gives many opportunities for all sorts of imitations, while the wise and quiet character which always remains the same is neither easy to imitate nor easy to understand when imitated, especially for a festival crowd, people of all sorts gathered in the theaters. (604el-5)
+#+end_quote
+Plato makes his "greatest" objection to poetry on the basis of this idea.
+Not only average people but good people as well, even "the best among us," are vulnerable to its harmful influence (605c6-10).
+Socrates speaks for these select individuals when he says that, confronted with the excessive and unseemly lamentation that is the staple of tragic and epic poetry, "we enjoy it, surrender ourselves, share [the heroes'] feelings, and earnestly praise as a good poet whoever affects us most in this way" (605d3-5; cf. Phil. 48a, Ion 535a, Lg. 800d).
+And yet, at least in the case of the best among us if not also among the rest of the people as well, this sort of behavior is exactly what we try to avoid when we meet with misfortunes of our own: in life, Plato claims, we praise the control and not the indulgence of our feelings of sorrow.
+How is it then that we admire in poetry just the kind of person we would be ashamed to resemble in life (605d7-e6)?
+
+Socrates tries to account for this absurdity by means of the psychological terms provided by the tripartition of the soul in Book IV of the /Republic/.
+The lowest, appetitive, part of the soul, which is only concerned with immediate gratification and not with the good of the whole agent, delights in shameful behavior as it delights in anything that is not measured.
+Now poetry depicts the sufferings of others, not our own.
+The rational part of the soul, accordingly, is in this case indulgent toward the appetite, and allows it free expression.
+The whole agent, therefore, in the belief that such indulgence is harmless, enjoys the pleasure with which poetry provides the appetite (606a3-b5).
+
+What we fail to realize is that enjoying the expression of sorrow in the case of others is directly transferred to the sorrows of our own.
+Cultivating our feelings of pity in spectacles disposes us to express them in similar ways in our own case and to enjoy (or at least to find no shame in) doing so: thus it ultimately leads us to make a spectacle of ourselves (606a3-b8).
+Plato now generalizes his conclusion from sorrow in particular to all the passions:
+
+#+begin_quote
+So too with sex, anger, and all the desires, pleasures, and pains which we say follow us in every activity.
+Poetic imitation fosters these in us.
+It nurtures and waters them when they ought to wither; it places them in command in our soul when they ought to obey in order that we might become better and happier... instead of worse and more miserable. (606dl-7)
+#+end_quote
+
+In short, Plato accuses poetry of perverting its audience.
+Poetry is essentially suited to the representation of inferior characters and vulgar subjects: these are easy to imitate and what the crowd, which is already perverted to begin with, wants to see and enjoys.
+But the trouble is that all of us have an analogue to the crowd within our own soul (cf. 580d2-581al).
+This is the appetitive part (the counterpart to the third and largest class, the money-lovers, in Plato's analogy between city and soul), to the desires and pleasures of which we are all more or less sensitive.
+And since—this is a most crucial assumption to which we shall have to return—our reactions to poetry are transferred directly to, and in fact often determine, our reactions to life, poetry is likely to make us behave in ways of which we should be, and often are, ashamed.
+Poetry "introduces a bad government in the soul of each individual citizen" (605b7-8).
+But this is to destroy the soul and to destroy the city.
+It is precisely the opposite of everything the /Republic/ is designed to accomplish.
+This is why poetry is intolerable.
+
+We must now turn to Plato's deeply controversial assumption that our reactions to life follow on the lines of our reactions to poetry: the whole issue of the sense of Plato's charges against poetry and of their contemporary importance depends just on this idea.
+On its face, of course, this assumption can be easily dismissed.
+Enjoying (if that is the proper word) Euripides' /Medea/ is not likely to dispose us to admire mothers who murder their children for revenge nor to want to do so ourselves nor even to tend to adopt as our own Medea's ways of lamenting her fate.[10]
+But this quick reaction misses precisely what is deep and important in Plato's attitude.
+
+To begin to see what that is, we should note that Plato's assumption does not seem so unreasonable in connection with children.
+Almost everyone today would find something plausible in Plato's prohibition that children imitate bad models "lest from enjoying the imitation they come to enjoy the reality" and something accurate in his suspicion that "imitations, if they last from youth for some time, become part of one's nature and settle into habits of gesture, voice, and thought" (395c7-d3).
+On this issue, Aristotle, who disagrees on so many issues regarding poetry with Plato, is in complete agreement: "We should also banish pictures and speeches from the stage which are indecent... the legislator should not allow youth to be spectators of iambi or of comedy" (Pol. VII, 1336b14-21)."
+But, also like Plato, Aristotle does not confine his view to children only: "As we know from our own experience... the habit of feeling pleasure or pain at mere representations (/ta homoia/) is not far removed from the same feelings about realities" (Pol. VIII , 1340*21-25).
+
+To a great extent, in fact, Aristotle's vindication of tragedy against Plato involves the argument that poetry is actually morally beneficial.
+And the reason for this is that /katharsis/ both excites and purifies emotions which, in Stephen Halliwell's words, "although potent, are properly and justifiably evoked by a portrayal of events which, if encountered in reality, would call for the same emotional response.",[12]
+The assumption that there is some direct connection between our reactions to poetry and our reactions to life is common to both philosophers.
+The main difference is that Aristotle argues, against Plato, that this parallel tends to benefit rather than to harm the conduct of our life.
+
+The Platonic argument seems plausible in the case of children because many of us think (though this view is itself debatable) that, unclear about the difference between them, children often treat representations simply as parts of and not also as symbols for reality.
+They don't always seem able, for example, to distinguish a fictional danger from a real one.
+But Plato, as we have seen, believed that the case is similar with adults.
+Their reactions to poetry, too, determine their reactions to life because, to put the point bluntly, they are exactly the same kind of reactions.
+And the reason for this is that, as he believed, the representations of poetry are, at least superficially, exactly the same kind of objects as the real things they represent.
+The expression of sorrow in the theater is superficially identical with—exactly the same in appearance as—the expression of sorrow in life.
+Though actors do not, or need not, feel the sorrow they express on the stage, this underlying difference is necessarily imperceptible and allows the surface behavior of actors and real grievers to be exactly the same.
+
+"Paradoxically," Jonas Barish has written, "Plato makes much of the ontological difference between an actual thing and its mimetic copy (or the dream of it) yet allows little psychological difference."[13]
+On the account I have just given, however, Plato's view is not at all paradoxical.
+It is precisely because the difference between imitations and their objects is ontological, a difference which cannot be perceived, that our reactions to both, which are based on our perception, are so similar.
+Plato's view is that the pleasure we feel at the representation of an expression of sorrow in poetry is pleasure at that expression itself, and for that reason likely to dispose us to enjoy such behavior in life.
+He does not consider the possibility that the pleasure may be directed not at the expression of sorrow but at its representation, and that this representation is an independent object, having features in its own right and subject to specific principles which determine its quality.[14]
+
+What I mean by this is that for Plato representation is transparent.
+It derives all its relevant features, the features that make it the particular representation it is, solely from the object it represents, and which we can see directly through its representation (we shall have to return to this "directly").
+The imitation of an expression of sorrow is simply sorrow expressed, identical in appearance to the real expression of sorrow, though not actually felt.
+
+All imitations are treated in Book X of the /Republic/ simply as apparent objects, as appearances of their subjects, and not as objects with a status of their own (597e7-601b8).
+God, carpenter, and painter all produce a bed (596b5), though the painter's bed is only "apparent" (598M).
+The painter does not primarily produce a painting, a physical object with a symbolic dimension; the portrait of a cobbler is simply "a cobbler who seems to be" (600e7-601a7).
+The clear implication is that the poets produce apparent crafts and apparent virtues in their imitations of what people say and do; they duplicate the appearance of people engaged in the practice of a craft or of virtuous activity (600e3-601bl).
+Even more frequently, of course, they duplicate the appearance of vicious activity—this is the seductive, and appropriate, subject-matter of poetry.
+Imitators, for Plato, lack a craft of their own (and are, in this respect at least, like sophists and rhetoricians).
+They therefore do not know the nature of what they imitate, and simply
+transcribe the appearance of various things and actions by means of colors
+and words.[15]
+
+This metaphysical view is reflected in Plato's ambivalent language.[16]
+Painters, he writes, are both /imitators/ and /makers/ of appearances (598b3-4, 599a2-3); Homer is a producer of images, though poets in general are /imitators/ of images (599d3, 600e5).
+In the latter case, the image is the object of imitation, something that exists before imitation begins.
+In the former, it is the product of imitation, and comes into being only as imitation proceeds.
+This ambivalence suggests that for Plato the object and the product of imitation are identical in kind, that is, totally similar; it is almost as if the imitator lifts the surface of the imitated object and transfers it into another medium.
+What is different in each case is the depth—physical in the case of painting and psychological in the case of poetry—which imitation necessarily leaves untouched.
+If it were in some way possible to add to the imitation this missing dimension, we could produce a duplicate of its subject or, if no antecedent subject exists, a new real thing. The real object is the limiting case of the representation: this is exactly Plato's argument at Cratylus 432a-c; it is the metaphysical version of the myth of Pygmalion.
+
+* Section 2
+
+The metaphysics of Pygmalion is still in the center of our thinking about the arts.
+To see that this is so, and why, we must change subjects abruptly and recall Newton Minnow's famous address to the National Association of Broadcasters in 1961.
+Though Minnow admitted that some television was of high quality, he insisted that if his audience were to watch, from beginning to end, a full day's programming,
+#+begin_quote
+I can assure you that you will observe a vast wasteland.
+You will see a procession of game shows, violence, audience participation shows, formula comedies about totally unbelievable families, blood and thunder, mayhem, violence, sadism, murder, western badmen, western goodmen, private eyes, gangsters, more violence, and cartoons.[17]
+#+end_quote
+This general view of the vulgarity of television has been given a less extreme expression, and a rationale, by George Gerbner and Larry Gross:
+#+begin_quote
+Unlike the real world, where personalities are complex, motives unclear, and outcomes ambiguous, television presents a world of clarity and simplicity... In order to complete a story entertainingly in only an hour or even half an hour conflicts on TV are usually personal and solved by action.
+Since violence is dramatic and relatively simple to produce, much of the action tends to be violent.[18]
+#+end_quote
+An extraordinary, almost hysterical version of such a view, but nevertheless a version that is uncannily close to Plato's attitude that the lowest part of the soul is the subject-matter of poetry, is given by Jerry Mander.
+Television, he writes, is inherently suited for
+
+#+begin_quote
+expressing hate, fear, jealousy, winning, wanting, and violence... hysteria or ebullience of the kind of one-dimensional joyfulness usually associated with some objective victory—the facial expressions and bodily movements of antisocial behavior."
+#+end_quote
+
+Mander also duplicates, in connection with television, Plato's view that poetry directly influences our life for the worse: "We slowly evolve into the images we carry, we become what we see." 20 This, of course, is the guiding premise of the almost universal debate concerning the portrayal of sex, violence, and other disapproved or antisocial behavior on television on the grounds that it tends to encourage television's audience to engage in such behavior in life.[21]
+And a very sophisticated version of this Platonic point, making use of the distinction between form and content, has been accepted by Wayne Booth:
+
+#+begin_quote
+The effects of the medium in shaping the primary experience of the viewer, and thus the quality of the self during the viewing, are radically resistant to any elevation of quality in the program content: as viewer, I become how I view, more than what I view...
+Unless we change their characteristic forms, the new media will surely corrupt whatever global village they create; you cannot build a world community out of misshapen souls.[22]
+#+end_quote
+
+We have seen that Plato's reason for thinking that our reactions to life duplicate our reactions to poetry is that imitations are superficially identical with the objects of which they are imitations.
+Exactly this explanation is also given by Rudolph Arnheim, who wrote that television "is a mere instrument of transmission, which does not offer any new means for the artistic interpretation of reality."[23]
+Television, that is, presents us the world just as it is or, rather, it simply duplicates its appearance.
+Imitations are substitutes for reality.
+In Mander's words,
+
+#+begin_quote
+people were believing that an image of nature was equal... to the experience of nature... that images of historical events or news events were equal to the
+events... the confusion of... information with a wider, direct mode of experience was advancing rapidly.[24]
+#+end_quote
+
+Plato's argument against poetry is repeated in summary form, and without an awareness of its provenance, in connection with television by Neil Postman: "Television," he writes, "offers viewers a variety of subject-matter, requires minimal skills to comprehend it, and is largely aimed at emotional gratification."[25]
+The inevitable result, strictly parallel to "the bad government in the soul" which Plato would go to all lengths to avert, is, according to Postman, an equally dangerous "spiritual devastation."[26]
+
+Parallels between Plato's view and contemporary attitudes such as that expressed in the statement that "daily consumption of 'Three's Company' is not likely to produce a citizenry concerned about, much less committed to, Madisonian self-government," are to be found wherever you look.[27]
+Simply put, the greatest part of contemporary criticisms of television depends on a moral disapproval which is identical to Plato's attack on epic and tragic poetry in the fourth century B.C.
+In this respect, at least, we are most of us Platonists.
+We must therefore reexamine both our grounds for disapproving of Plato's attack on poetry and our reasons for disapproving of television.
+
+It is true that television is also the target of another criticism, a purer aesthetic criticism concerned with the artistic quality of television works.
+This is not a criticism which Socrates, who confesses to "a love and respect for Homer since childhood" (595b9-10) and who describes his love of poetry in explicit sexual terms (607e4-608b2), would ever have made.
+We will discuss this criticism in the last section of this essay.
+
+* Section 3
+
+My effort to establish a parallel between Plato's deep, complex, and suspicious hostility toward Homer and Aeschylus on the one hand and the obviously well-deserved contempt with which many today regard Dynasty or Dallas may well appear simply ridiculous.
+Though classical Greek poetry still determines many of the criteria that underlie the literary canon of our culture, most of television hardly qualifies as entertainment.
+Yet my position does not amount to a trivialization of Plato's views.
+On the contrary, I believe, we are bound to miss (and have already missed) the real urgency of Plato's approach if we persist in taking it as an attack against art as such.
+Plato was neither insensitive to art nor inconsistent in his desire to produce, as he did, artworks of his own in his dialogues; he neither discerned a deep characteristic of art that pits it essentially against philosophy nor did he envisage a higher form of art which he would have allowed in his city.[28]
+Plato's argument with poetry concerns a practice which is today paradigmatically a fine art, but it is not an argument directed at it as such a fine art.
+At this point, the history of art becomes essential for an understanding of its philosophy.
+Though Plato's attack against poetry in the Republic may be the originating text of the philosophy of art, his argument, without being any less profound or disturbing, dismisses poetry as what it was in his time: and poetry then was popular entertainment.
+
+The audience of Attic drama, as far as we now know, was "a 'popular' audience in the sense that it was a body fully representative of the great mass of the Athenian people"[29] and included a great number of foreign visitors as well.[30]
+During the Greater Dionysia in classical times no fewer than 17,000 people,[31] perhaps more,[32 were packed into the god's theater.
+Pericles, according to Plutarch, established the /theorikon/, a subsidy to cover the price of admission and something more, which ended up being distributed to rich and poor alike, and made of the theater a free entertainment.[33]
+
+The plays were not produced in front of a well-behaved audience.
+The dense crowd was given to whistling (/syringx/) and the theater resounded with its "uneducated noise" (/amousoi boaiplethous/, Lg. 700c3).
+Plato expresses profound distaste for the tumult with which audiences, in the theater and elsewhere, voiced their approval or dissatisfaction (Rep. 492c).
+Their preferences were definitely pronounced if not often sophisticated.
+Since four plays were produced within a single day, the audience arrived at the theater with large quantities of food.
+Some of it they consumed themselves—hardly a silent activity in its own right, unlikely to produce the quasi-religious attention required of a fine-art audience today and more reminiscent of other sorts of mass entertainments.
+Some of their food was used to pelt those actors whom they did not like,[34] and whom they often literally shouted off the stage.[35]
+In particular, and though this may be difficult to imagine today, the drama was considered a realistic representation of the world: we are told, for example, that a number of women were frightened into having miscarriages or into giving premature birth by the entrance of the Furies in Aeschylus' Eumenides.[36]
+
+The realistic interpretation of Attic drama is crucial for our purposes.
+Simon Goldhill, expressing the recent suspiciousness toward certain naive understandings of realism, has written that Electra's entrance as a peasant in the play Euripides named after her "is upsetting not because it represents reality but because it represents reality in a way which transgresses the conventions of dramatic representations, indeed the representations of reality constructed elsewhere in the play."
+In fact, he continues, "Euripides constantly forces awareness of theatre as theatre."[37]
+This, along with the general contemporary claim that all art necessarily contains hints pointing toward its artificial nature and undermining whatever naturalistic pretensions it makes, may well be true.
+But it doesn't alter the fact that it is of the essence of popular entertainment that these hints are not, while the entertainment still remains popular, consciously perceived.
+Popular entertainment, in theory and practice, is generally taken to be inherently realistic.
+
+To be inherently realistic is to seem to represent reality without artifice, without mediation and convention.
+Realistic art is, just in the sense in which Plato thought of imitation, transparent.
+This transparency, I believe, is not real.
+It is only the result of our often not being aware of the mediated and conventional nature of the representations to which we are most commonly exposed.
+As Barish writes in regard to the theater, "it has an unsettling way of being received by its audiences, at least for the moment and with whatever necessary mental reserves, as reality pure and simple."[38]
+Whether or not we are aware of it, however, mediation and convention are absolutely essential to all representation.
+But since, in such cases, they cannot be attributed to the representation itself, which, transparent as it is, cannot be seen as an object with its own status and in its own right, they are instead attributed to the represented subject-matter: the slow-moving speech and action patterns of soap operas, for example, are considered (and criticized) as representations of a slow-moving world.
+
+Attributed to subject-matter, mediation and convention appear, almost by necessity, as distortions.
+And accordingly (from the fifth century B.C. through Renaissance and Puritan England as well as Jansenist France in connection with the theatre, through the eighteenth- and nineteenth-century attacks on the novel, to contemporary denunciations of the cinema and of television) the reality the popular media are supposed to represent has always been considered, while the media in question are still popular, as a distorted, perverted, and dismal reality.
+And it has regularly involved campaigns to abolish or reform the popular arts or efforts on the part of the few to distance themselves from the arts as far as possible.
+And insofar as the audience of these media has been supposed, and has often supposed itself, to react directly to that reality, the audience's undisputed enjoyment of the popular arts has been interpreted as the enjoyment of this distorted, perverted, and dismal reality.
+It has therefore also been believed that this enjoyment both reflects and contributes to a distorted, perverted, and dismal life—a vast wasteland accurately reflected in the medium which mirrors it.
+
+This is the essence of Plato's attack against poetry and, I believe, the essential idea behind a number of attacks against television today.
+Nothing in Plato's time answered to our concept of the fine arts, especially to the idea that the arts are a province of a small and enlightened part of the population (which may or may be not be interested in attracting the rest of the people to them), and Plato holds no views about them.
+His quarrel with poetry is not disturbing because anyone seriously believes that Plato could have been right about Homer's pernicious influence.
+Plato's view is disturbing because we are still agreed with him that representation is transparent—at least in the case of those media which, like television, have not yet acquired the status of art and whose own nature, as opposed to what they depict, has not yet become in serious terms a subject in its own right.[39]
+And because of this view, we may indeed react to life, or think that we do, as we react to its representations: what is often necessary for a similarity between our reactions to life and our reactions to art is not so much the fact that the two are actually similar but only the view that they are.
+Many do in fact enjoy things on television which, as Plato wrote in regard to poetry, some at least would be ashamed, even horrified, to enjoy in life.
+
+The problem here is with the single word 'things', which applies both to the contents of television shows and to the situations those represent.
+What this suggests is that what is presented on television is a duplicate of what occurs in the world.
+No interpretation seems to be needed in order to reveal and to understand the complex relations that actually obtain between them.
+
+By contrast, no one believes that the fine arts produce such duplications.
+Though we are perfectly willing to learn about life from literature and painting (a willingness which, in my opinion, requires close scrutiny in its own right), no one would ever project directly the content of a work of fine art onto the world.
+The fine arts, we believe, bear an indirect, interpretative relationship to the world, and further interpretation on the part of audience and critics is necessary in order to understand it.
+It is precisely for this sort of interpretation that the popular arts do not seem to call.
+
+* Section 4
+
+Yet the case of the Republic suggests that the line between the popular and the fine arts is much less settled than is often supposed.
+If my approach has been right so far, Plato's quarrel with poetry is to a great extent, as much of the disdain against television today is, a quarrel with a popular form of entertainment.
+Greek drama, indeed, apart from the fact that it was addressed to a very broad audience, exhibits a number of features commonly associated with popular literature.
+One among them is the sheer volume of output required from any popular genre.
+"Throughout the fifth century B.C. and probably, apart from a few exceptional years, through the earlier part of the fourth century also," Pickard-Cambridge writes, "three tragic poets entered the contest for the prize in tragedy, and each presented four plays."[40]
+If we add to these the plays produced by the comic poets, the plays produced at all the festivals other than the City Dionysia (with which Pickard-Cambridge is exclusively concerned), and the plays of the poets who were not chosen for the contest, we can see that the actual number of dramas must have been immense.
+The three great tragedians alone account for roughly three hundred works.
+And this is at least a partial explanation of the fact that so many plays were different treatments of the same stories.
+This practice is imposed on popular authors by the demands of their craft and is in itself a serious source of satisfaction for their audience.[41]
+
+The most important feature of popular art, however, is the transparency to which we have already referred.
+The idea is complex, and it is very difficult to say in general terms which of a popular work's features are projected directly onto reality since, obviously, not all are. A television audience knows very well that actors shot during a show are not really dead, but other aspects of the behavior of such fictional characters are actually considered as immediate transcriptions of reality.
+On a very simple level, for example, it is difficult to explain otherwise the fact that the heroines of /Cagney and Lacey/ invariably buckle their seat belts when they enter their car, whether to chase a murderer or to go to lunch.
+And many aspects of their relationship are considered as perfectly accurate transcriptions of reality.
+Popular art is commonly perceived as literally incorporating parts of reality within it; hence the generally accepted, and mistaken, view that it requires little or no interpretation.
+
+Arthur Danto has recently drawn attention to art which aims to incorporate reality directly within it, and has named it the "art of disturbation."
+This is not art which represents, as art has always represented, disturbing reality.
+It is art which aims to disturb precisely by eradicating the distance between it and reality, by placing reality squarely within it.[42]
+Disturbational art aims to frustrate and unsettle its audience's aesthetic, distanced, and contemplative expectations: "Reality," Danto writes, "must in some way... be an actual component of disturbatory art and usually reality of a kind itself disturbing... And these as components in the art, not simply collateral with its production and appreciation."[43]
+"Happenings" or Chris Burden's viciously self-endangering projects fall within this category.
+And so did, until relatively recently, obscenity in the cinema and the theatre.
+
+The purpose of disturbational art, according to Danto, is atavistic.
+It aims to reintroduce reality back into art, as was once supposedly the norm: "Once we perceive statues as merely designating what they resemble... rather than containing the reality through containing the form, a certain power is lost to art."[44]
+But contemporary disturbational art, which Danto considers "pathetic and futile," utterly fails to recapture this lost "magic."[45]
+This failure is not an accident.
+The disturbational art with which Danto is concerned consists mainly of paintings, sculptures, and "happenings" that are essentially addressed to a sophisticated audience through the conventions of the fine arts: you dress to go see it.
+But part of what makes the fine arts fine is precisely the distance they have managed, over time, to insert between representation and reality; this distance can no longer be eliminated.
+Danto finds that disturbational art still poses some sort of vague threat: "Perhaps it is for this reason that the spontaneous response to disturbational art is to disarm it by cooptation, incorporating it instantaneously into the cool institutions of the artworld where it will be rendered harmless and distant from forms of life it meant to explode."[46]
+My own explanation is that the cool institutions of the artworld are just where the art of disturbation, which is necessarily a fine art, has always belonged.
+
+Disturbational art aims to restore "to art some of the magic purified out when art became /art/."[47]
+This, I believe, is not a reasonable goal: once a genre has become fine, it seldom if ever loses its status; too much is invested in it.
+And yet, I want to suggest, "the magic purified out when art became art" is all around us, and just for that reason almost totally invisible.
+The distinction between representation and reality is constantly and interestingly blurred by television—literally an art which has not yet become art—and which truly disturbs its audience: consider, as one instance among innumerably many, the intense debate over the influence on Soviet-American relations of the absurd mini-series /Amerika/ in the spring of 1987.[48]
+
+As a medium, television is still highly transparent.
+Though, as I have admitted, I don't yet have a general account of which of its features are projected directly onto the world, television clearly convinces us on many occasions that what we see in it is precisely what we see through it.
+This is precisely why it presents such a challenge to our moral sensibility.
+The "magic" of television may be neither admirable nor even respectable.
+But it is, I am arguing, structurally identical to the magic Plato saw and denounced in Greek poetry, which also, of course, was not art.
+
+Plato's attack on poetry is duplicated today even by those who think of him as their great enemy and the greatest opponent of art ever to have written.
+It is to be found not only in the various denunciations of television, many of which are reasonable and well-supported, but even more importantly in the total neglect of television on the part of our philosophy of art.
+Aesthetics defends the arts which can no longer do harm and against which Plato's strictures hardly make sense.
+His views are thus made incomprehensible and are not allowed to address their real target.
+Danto writes that every acknowledged literary work is "about the 'P that reads the text... in such a way that each work becomes a metaphor for each reader."[49]
+The keyword here is "metaphor": we do not literally emulate our literary heroes, in the unfortunate manner of Don Quixote; we understand them through interpretation and transformation, finding their relevance to life, if anywhere, on a more abstract level.
+But such literal emulation was just what Plato was afraid of in the case of tragic poetry, and what so many today are afraid of in regard to television: "we become what we see."
+Plato's attack on "art" is still very much alive.
+
+* Section 5
+
+A reasonable reaction to these speculations is that whatever the similarities between Plato's attack on poetry and contemporary attitudes toward television, the difference between the media themselves is immense.
+Not only did Greek poetry have its Homer and its Aeschylus, but Plato was acutely, even painfully aware of its beauty.
+Toward such beauty, Socrates says, "we shall behave like lovers who see their passion is disastrous and violently force themselves away from the object of their love" (607e4-6).
+But television, almost everyone seems to agree, has no aesthetic value: it is not only harmful but ugly; why bother?
+
+This issue is extremely complicated, and I can only touch on it lightly here.
+The common view that television is aesthetically worthless seems to me profoundly flawed.
+This is not because I think that television is aesthetically valuable, but because this sort of statement is the wrong sort of statement to make.
+Television is a vast medium which includes a great variety of genres, some of which have no connection of any kind with the arts.
+A similar statement would be something like "Writing is good (or bad)," which wears its absurdity on its face.
+Even a more specific view to the effect, say, that "Literature is valuable" seems obviously untenable once we consider the huge numbers of absolutely horrible literary works most of which are, mercifully, totally forgotten.
+
+We must therefore gradually develop principles and criteria suited for the criticism of television.
+We need to articulate classes and categories to help us organize its various species and genres—the kind of project with which, for example, the serious study of poetry first began.
+We need principles which will be more than mechanical applications of the principles developed already for other arts and which, naturally, television always miserably fails to satisfy.[50]
+We need, for example, especially in connection with broadcast television, to face the fact that the unit of aesthetic significance is not the individual episode—though individual episodes is all we ever see—but the serial as a whole.[51]
+The fact that the serial somehow inheres in its episodes raises radically new aesthetic questions as well as venerably old metaphysical ones.
+As Aristotle remarked when, after dismissing Parmenides and Melissus as physical thinkers of any significance, he nevertheless proceeded to discuss their views in detail, "there is philosophy in the investigation" (Phys. A, 185a20).
+
+We finally need, as Stanley Cavell has correctly pointed out, to think seriously about the fact—and it is a fact—that "television has conquered."
+Two questions need to be asked: "first how it has happened; and second how we [intellectuals] have apparently remained uninterested in accounting for its conquering."[52]
+The first question can only be answered through the development of television criticism.
+The second also requires such criticism, but also an explanation of why the criticism has been so slow in developing.
+Cavell attributes this to the fear of
+#+begin_quote
+the fact that a commodity has conquered, an appliance that is a monitor, and yet what it monitors... are so often settings of the shut-in, a reference line of normality or banality so insistent as to suggest that what is shut out, that suspicion whose entry we would at all costs guard against, must be as monstrous as, let me say, the death of the normal, of the familiar as such.[53]
+#+end_quote
+But, I think, there is another aspect to this fear, another—connected—reason for it.
+It is a reason provided directly not by what television shuts out but precisely by what it lets in, by what it shows and by the conditions under which we look at it.
+
+Broadcast television, which until recently was practically identical with the medium itself, works primarily through the serial.
+Each episode, precisely because it instantiates the serial of which it is a member, is essentially repetitive, however novel a story-line it may exploit on a particular occasion.
+The set is always the same.
+The characters' personalities are usually the same.[54]
+Their habits, their facial and verbal expressions, their peculiarities are the same.
+The surroundings in which conversations occur are the same.
+The groupings in which those conversations occur are the same.
+Membership in the serial is established through this sameness, which is therefore essential to the genre.
+And the serial is repetitive in another dimension as well: it is broadcast at exactly the same time each week.
+Watching a particular show—and to come to appreciate a show at all requires watching a number of episodes: the features they share as members of a species cannot be otherwise noticed and interpreted as such—imposes a rigorous routine on the viewer.
+Unless one owns a recording machine, one must arrange one's life, one must establish a routine, in order to accommodate the show.
+And what one sees then, with or without a recording machine, is nothing other than the representation of routine itself.
+
+Routinization, however, is either something we want to avoid or something we want to forget.
+Television brings it, as it were, home to us.
+It imposes a routine on its viewers, it portrays routine for them, and it suggests that their own life mirrors what it portrays.
+Television will be resisted as long as routine remains, in the absence of criticism and interpretation, its most salient feature.
+Interpretation is necessary in order to determine whether there are other features there to be noticed and, perhaps, appreciated.
+In the meantime, of course, the critics may themselves be trapped in routine: this danger is endemic to the enterprise.
+But nothing, in principle, deprives the depiction of routine of aesthetic value just as nothing, in principle, prevents the depiction of foolishness, cruelty, murder, incest, ignorance, arrogance, suicide, and self-mutilation from constituting, as it has on at least one occasion, an unparalleled work of art.

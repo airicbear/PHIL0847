@@ -1,0 +1,43 @@
+#+TITLE: Notes
+
+* What is Philosophy? Bertrand Russell & Adrian Piper
+
+** Chapter 1 Appearance and Reality
+
+- Is there any knowledge in the world which is so certain that no reasonable man could doubt it?
+
+- For example, take the existence of a table.
+
+  + The color distribution, as well as the observed shape of the table changes depending on the point of view.
+
+  + The table seems smooth, but under a microscope may actually be very rough
+
+  + The sensation of touching the table will change depending on the amount of pressure applied and the part of the body that touches the table
+
+  + The real table, if there is one, is not /immediately/ known to us at all, but must be an inference from what is immediately known.
+
+    1. Is there a real table at all?
+
+    2. If so, what sort of object can it be?
+
+- "Sense-data": the things that are immediately known in sensation: such things as colours, sounds, smells, hardnesses, roughnesses, and so on.
+
+- "Sensation": the experience of being immediately aware of these things.
+
+- The real table, if it exists, we will call a "physical object"
+
+- The collection of physical objects is called "matter"
+
+- Rewording the two questions from before,
+
+  1. Is there any such thing as matter?
+
+  2. If so, what is its nature
+
+- Bishop Berkely, in his /Three Dialogues between Hylas and Philonous, in Opposition to Sceptics and Atheists/, undertakes proving that there is no such thing as matter.
+
+  + He retains the merit of having shown that the existence of matter is capable of being denied without absurdity, and that if there are any things that exist independently of us they cannot be the immediate objects of our sensations
+
+** The Value of Philosophy
+
+- Philosophy is to be studied, not for the sake of any definite answers to its questions, since no definite answer can, as a rule, be known to be true, but rather for the sake of the questions themselves; because these questions enlarge our conception of what is possible, enrich our intellectual imagination, and diminish the dogmatic assurance which closes the mind against speculation; but above all because, through the greatness of the universe which philosophy contemplates, the mind also is rendered great, and becomes capable of that union with the universe which constitutes its highest good.
